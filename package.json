@@ -1,0 +1,16 @@
+{
+  "name": "tw-calc-website-events",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timzatko/TW-Calc-Website-Events.git"
+  },
+  "author": "Timotej Zatko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timzatko/TW-Calc-Website-Events/issues"
+  },
+  "homepage": "https://github.com/timzatko/TW-Calc-Website-Events#readme"
+}
