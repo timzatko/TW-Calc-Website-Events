@@ -1,16 +1,34 @@
 {
-  "name": "tw-calc-website-events",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/timzatko/TW-Calc-Website-Events.git"
-  },
-  "author": "Timotej Zatko",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/timzatko/TW-Calc-Website-Events/issues"
-  },
-  "homepage": "https://github.com/timzatko/TW-Calc-Website-Events#readme"
+    "name": "tw-calc-website-events",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "prettier": "prettier \"**/*.{js,json,md}\"",
+        "prettier:write": "npm run prettier -- --write",
+        "prettier:lint": "npm run prettier -- --list-different"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/timzatko/TW-Calc-Website-Events.git"
+    },
+    "author": "Timotej Zatko",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/timzatko/TW-Calc-Website-Events/issues"
+    },
+    "homepage": "https://github.com/timzatko/TW-Calc-Website-Events#readme",
+    "devDependencies": {
+        "husky": "^4.2.5",
+        "lint-staged": "^10.3.0",
+        "pre-commit": "^1.2.2",
+        "prettier": "^2.1.1"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
+        }
+    },
+    "lint-staged": {
+        "*.{js,json,md}": "prettier --write"
+    }
 }
