@@ -29,5 +29,6 @@ if (!apiKey) {
                 'ERROR!',
                 `The following error occurred during the deployment: "${error.name}: ${error.message}"`,
             );
+            process.exit(3);
         });
 })();
