@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const { getEvent, getEventFiles } = require('./utils');
 
-const buildPath = path.join(__dirname, '..', 'build');
+const buildPath = path.join(__dirname, '..', 'dist');
 const outFile = path.join(buildPath, 'events.json');
 const events = [];
 

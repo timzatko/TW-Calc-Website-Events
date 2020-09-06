@@ -7,5 +7,5 @@
 # Node
 node_modules
 
-# build
-build
+# dist
+dist
