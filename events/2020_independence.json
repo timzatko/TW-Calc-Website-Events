@@ -1,0 +1,24 @@
+{
+    "key": "independence",
+    "items": [52070000, 52090000, 52080000, 52112000, 52110000, 52109000, 52111000, 52106000, 52088000],
+    "sets": [
+        "independence_day_2020_set_1",
+        "independence_day_2020_set_2",
+        "independence_day_2020_set_3",
+        "independence_day_2020_set_4",
+        "independence_day_2020_set_5",
+        "independence_day_2020_set_6",
+        "independence_day_2020_set_7",
+        "independence_day_2020_set_8",
+        "independence_day_2020_set_9",
+        "independence_day_2020_set_10"
+    ],
+    "from": "2020-07-02 11:00:00",
+    "to": "2020-06-23 23:59:59",
+    "year": 2020,
+    "quests": [225],
+    "tombola": 29,
+    "beta_from": "2020-06-23 11:00:00",
+    "beta_to": "2020-07-20 23:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/independence-day-2020.3549/#post-37437"
+}

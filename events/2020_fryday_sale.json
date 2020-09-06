@@ -1,0 +1,12 @@
+{
+    "key": "fryday_sale",
+    "name": "Fryday sale",
+    "items": [51616000],
+    "sets": ["sale_jfry_set_2019"],
+    "from": "2020-08-14 09:00:00",
+    "to": "2020-08-16 09:00:00",
+    "year": 2020,
+    "beta_from": "2020-08-14 09:00:00",
+    "beta_to": "2020-08-16 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/fryday-sale.3560/#post-37581"
+}

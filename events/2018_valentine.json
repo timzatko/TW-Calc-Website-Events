@@ -1,0 +1,13 @@
+{
+    "key": "valentine",
+    "items": [50880000],
+    "sets": ["2018_valentines_set_1", "2018_valentines_set_2", "2018_valentines_set_3"],
+    "from": "2018-02-14 11:00:00",
+    "to": "2018-03-05 23:59:59",
+    "year": 2018,
+    "quests": [180],
+    "tombola": 18,
+    "beta_from": "2018-02-07 10:00:00",
+    "beta_to": "2018-03-05 23:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/valentines-day-event.3272/"
+}

@@ -1,0 +1,10 @@
+{
+    "key": "american_football_sale",
+    "name": "American Football Sale",
+    "items": [50545000, 50547000, 50548000],
+    "sets": ["vanity_sale_football_2017"],
+    "from": "2017-05-11 11:00:00",
+    "to": "2017-05-13 11:00:00",
+    "year": 2017,
+    "quests": [169]
+}

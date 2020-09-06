@@ -1,0 +1,10 @@
+{
+    "key": "prison_brothers_sale",
+    "name": "Prison Brother's Sale",
+    "items": [50626000, 50622000, 50625000, 50624000, 50623000],
+    "sets": ["set_prisonbrothers_august_2017", "set_prisonbrothers_august_2017_animal"],
+    "from": "2017-08-18 11:00:00",
+    "to": "2017-08-20 11:00:00",
+    "year": 2017,
+    "quests": [173]
+}

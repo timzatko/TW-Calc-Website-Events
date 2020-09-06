@@ -1,0 +1,9 @@
+{
+    "key": "black_friday",
+    "name": "Black Friday",
+    "items": [51311000, 51309000, 51310000, 51312000, 51306000, 51308000, 51307000],
+    "from": "2018-11-23 00:00:00",
+    "to": "2018-11-24 10:59:00",
+    "year": 2018,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/western-friday-sale.3382/#post-35438"
+}

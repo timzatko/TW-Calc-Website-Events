@@ -1,0 +1,12 @@
+{
+    "key": "winter_treasure",
+    "name": "Winter treasure!",
+    "items": [50860000, 50859000, 50858000, 50857000, 50861000, 50856000, 50855000],
+    "from": "2018-01-30 11:00:00",
+    "to": "2018-02-13 23:59:59",
+    "year": 2018,
+    "quests": [179],
+    "beta_from": "2018-01-23 11:00:00",
+    "beta_to": "2018-02-13 23:59:59",
+    "forum_url": "https://forum.the-west.net/index.php?threads/winter-treasure-event.57623"
+}

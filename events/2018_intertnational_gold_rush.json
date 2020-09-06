@@ -1,0 +1,9 @@
+{
+    "key": "intertnational_gold_rush",
+    "name": "International Gold Rush",
+    "sets": ["gold_rush_weapons", "gold_rush_clothes", "gold_rush_animal"],
+    "from": "2018-08-15 10:00:00",
+    "to": "2018-09-04 23:59:59",
+    "year": 2018,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/international-gold-rush.3346/#post-35195"
+}

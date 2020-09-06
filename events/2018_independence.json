@@ -1,0 +1,22 @@
+{
+    "key": "independence",
+    "items": [51089000, 51098000, 51107000, 51122000],
+    "sets": [
+        "independance_event_set1",
+        "indepandance_event_set2",
+        "independance_event_set3",
+        "independance_event_set4",
+        "independance_event_set5",
+        "independance_event_set6",
+        "independance_event_set7",
+        "independance_event_set8"
+    ],
+    "from": "2018-07-04 11:00:00",
+    "to": "2018-07-25 23:59:59",
+    "year": 2018,
+    "quests": [187],
+    "tombola": 14,
+    "beta_from": "2018-06-18 11:00:00",
+    "beta_to": "2018-07-18 23:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/independence-day-2018.3334/#post-35114"
+}

@@ -1,0 +1,16 @@
+{
+    "key": "easter",
+    "items": [50082000, 50081000, 50080000],
+    "sets": [
+        "set_easter_2016_3w",
+        "set_easter_2016_2w",
+        "set_easter_2016_1w",
+        "set_easter_2016_4",
+        "set_easter_2016_3",
+        "set_easter_2016_2",
+        "set_easter_2016_1"
+    ],
+    "from": "2016-03-23 00:00:00",
+    "to": "2016-04-14 10:00:00",
+    "year": 2016
+}

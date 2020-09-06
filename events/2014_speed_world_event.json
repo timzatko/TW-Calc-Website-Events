@@ -1,0 +1,8 @@
+{
+    "key": "speed_world_event",
+    "name": "Speed world event",
+    "sets": ["set_speedworld_2014"],
+    "from": "2014-09-17 14:00:00",
+    "to": "2014-09-17 14:00:00",
+    "year": 2014
+}

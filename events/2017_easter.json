@@ -1,0 +1,36 @@
+{
+    "key": "easter",
+    "items": [
+        50489000,
+        50490000,
+        50491000,
+        50492000,
+        50493000,
+        50494000,
+        50495000,
+        50496000,
+        50497000,
+        50498000,
+        50499000,
+        50500000,
+        50501000,
+        50502000,
+        50478000,
+        50479000
+    ],
+    "sets": [
+        "set_easter_2017_clothes_1",
+        "set_easter_2017_weapons_1",
+        "set_easter_2017_weapons_2",
+        "set_easter_clothes_3",
+        "set_easter_2017_weapons_3",
+        "set_easter_2017_4",
+        "set_easter_2017_clothes_5",
+        "set_easter_2017_weapons_5"
+    ],
+    "from": "2017-04-03 00:00:00",
+    "to": "2017-04-24 00:00:00",
+    "year": 2017,
+    "quests": [166],
+    "tombola": 13
+}

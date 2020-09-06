@@ -1,0 +1,15 @@
+{
+    "key": "easter",
+    "items": [2192000, 2193000, 2194000],
+    "sets": [
+        "set_proworker",
+        "set_meleeduelist_horse",
+        "set_rangedduelist",
+        "set_meleeduelist",
+        "set_rangedduelist_horse",
+        "set_proworker_horse"
+    ],
+    "from": "2013-03-28 00:00:00",
+    "to": "2013-04-13 23:59:59",
+    "year": 2013
+}

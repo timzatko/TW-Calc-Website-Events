@@ -1,0 +1,9 @@
+{
+    "key": "wright_brothers_sale",
+    "name": "Wright Brothers Sale",
+    "sets": ["set_wrightbrothers"],
+    "from": "2016-10-14 11:00:00",
+    "to": "2019-10-16 11:00:00",
+    "year": 2016,
+    "quests": [157]
+}

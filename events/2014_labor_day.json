@@ -1,0 +1,10 @@
+{
+    "key": "labor_day",
+    "name": "Labor day",
+    "items": [2351000],
+    "sets": ["labor_day"],
+    "from": "2014-08-28 10:00:00",
+    "to": "2014-09-02 23:59:59",
+    "year": 2014,
+    "quests": [108]
+}

@@ -1,0 +1,17 @@
+{
+    "key": "octoberfest",
+    "items": [2361000, 2360000, 2359000, 2362000],
+    "sets": [
+        "set_octoberfest_gun_3",
+        "set_octoberfest_gun_2",
+        "set_octoberfest_gun_1",
+        "set_octoberfest_4",
+        "set_octoberfest_3",
+        "set_octoberfest_2",
+        "set_octoberfest_1",
+        "set_octoberfest_gun_winner"
+    ],
+    "from": "2013-09-19 20:00:00",
+    "to": "2013-10-07 23:59:59",
+    "year": 2013
+}

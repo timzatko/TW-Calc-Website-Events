@@ -1,0 +1,18 @@
+{
+    "key": "octoberfest",
+    "items": [2645000, 2646000, 2647000, 2648000],
+    "sets": [
+        "set_octoberfest_2014_1",
+        "set_octoberfest_2014_2",
+        "set_octoberfest_2014_3",
+        "set_october_2014_animal_1",
+        "set_october_2014_animal_2",
+        "set_october_2014_animal_3",
+        "set_octoberfest_2014_ranking",
+        "set_octoberfest_2014_weapon_ranking_winner"
+    ],
+    "from": "2014-09-18 10:00:00",
+    "to": "2014-10-06 23:59:59",
+    "year": 2014,
+    "tombola": 8
+}

@@ -1,0 +1,13 @@
+{
+    "key": "valentine",
+    "items": [51357000, 51358000, 51332000, 51334000, 51333000, 51356000],
+    "sets": ["valentine_2019_set_1", "valentine_2019_set_2", "valentine_2019_set_3", "valentine_2019_set_4"],
+    "from": "2019-02-14 10:00:00",
+    "to": "2019-03-05 23:59:59",
+    "year": 2019,
+    "quests": [197, 198],
+    "tombola": 22,
+    "beta_from": "2019-02-07 10:00:00",
+    "beta_to": "2019-03-05 23:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/valentine-event-2019.3397/"
+}

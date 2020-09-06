@@ -1,0 +1,9 @@
+{
+    "key": "valentine",
+    "items": [2694000, 2692000, 2693000],
+    "sets": ["set_valentinesday_2015_2", "set_valentinesday_2015_1"],
+    "from": "2015-02-12 00:00:00",
+    "to": "2015-03-02 00:00:00",
+    "year": 2015,
+    "tombola": 12
+}

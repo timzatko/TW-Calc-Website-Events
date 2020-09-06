@@ -1,0 +1,10 @@
+{
+    "key": "western_black_friday",
+    "name": "Western \"Black\" Friday",
+    "items": [51795000, 51796000, 51797000],
+    "sets": ["western_friday_horse_set", "black_friday_set"],
+    "from": "2019-11-29 12:00:00",
+    "to": "2019-11-30 23:59:59",
+    "year": 2019,
+    "forum_url": "https://forum.the-west.net/index.php?threads/western-black-friday-2019.58584/#post-771668"
+}

@@ -1,0 +1,9 @@
+{
+    "key": "valentine",
+    "items": [683000, 2556000],
+    "sets": ["set_leveling_valentin_2014", "set_valentin_gun_2014", "set_valentin_2014"],
+    "from": "2014-02-13 10:00:00",
+    "to": "2014-03-02 10:00:00",
+    "year": 2014,
+    "tombola": 6
+}

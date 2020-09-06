@@ -1,0 +1,11 @@
+{
+    "key": "day_of_st_patrick",
+    "name": "St. Patrik's day",
+    "sets": ["set_st_patrick"],
+    "from": "2020-03-12 00:00:00",
+    "to": "2020-04-02 00:00:00",
+    "year": 2020,
+    "beta_from": "2020-03-05 00:00:00",
+    "beta_to": "2020-04-02 00:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/st-patricks-day-event.3514/"
+}

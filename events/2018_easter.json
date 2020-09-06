@@ -1,0 +1,36 @@
+{
+    "key": "easter",
+    "items": [
+        50959000,
+        50941000,
+        50953000,
+        50956000,
+        50955000,
+        50954000,
+        50958000,
+        50957000,
+        50952000,
+        50931000,
+        50951000,
+        50975000,
+        50976000
+    ],
+    "sets": [
+        "2018_easter_set_1",
+        "2018_easter_set_2",
+        "2018_easter_set_3",
+        "2018_easter_set_4",
+        "2018_easter_set_5",
+        "2018_easter_set_6",
+        "2018_easter_set_7",
+        "2018_easter_set_8"
+    ],
+    "from": "2018-03-28 10:00:00",
+    "to": "2018-04-18 10:00:00",
+    "year": 2018,
+    "quests": [182],
+    "tombola": 19,
+    "beta_from": "2018-03-20 10:00:00",
+    "beta_to": "2018-04-18 10:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/easter-event-2018.3287/#post-34661"
+}

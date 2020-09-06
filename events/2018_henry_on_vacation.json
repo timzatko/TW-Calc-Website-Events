@@ -1,0 +1,10 @@
+{
+    "key": "henry_on_vacation",
+    "name": "Henry on vacation",
+    "items": [51127000, 51125000, 51126000, 51134000],
+    "from": "2018-08-15 10:00:00",
+    "to": "2018-08-31 23:59:59",
+    "year": 2018,
+    "quests": [190],
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/update-2-83.3344/"
+}

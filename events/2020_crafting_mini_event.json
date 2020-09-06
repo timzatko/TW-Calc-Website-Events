@@ -1,0 +1,25 @@
+{
+    "key": "crafting_mini_event",
+    "name": "Crafting Mini Event",
+    "items": [
+        52026000,
+        52027000,
+        52034000,
+        52033000,
+        52032000,
+        52025000,
+        52023000,
+        52024000,
+        52030000,
+        52028000,
+        52029000,
+        52031000
+    ],
+    "from": "2020-05-20 00:00:00",
+    "to": "2020-06-08 23:59:59",
+    "year": 2020,
+    "quests": [220, 221],
+    "beta_from": "2020-05-13 00:00:00",
+    "beta_to": "2020-06-08 23:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/tradesman-and-a-crafting-mini-event.3534/"
+}

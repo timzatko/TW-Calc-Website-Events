@@ -1,0 +1,17 @@
+{
+    "key": "octoberfest",
+    "items": [853000, 926000, 852000, 927000, 928000],
+    "sets": [
+        "set_october_2015_ranking",
+        "set_october_2015_winner",
+        "set_october_2015_3_weapon",
+        "set_october_2015_2_weapon",
+        "set_october_2015_1_weapon",
+        "set_october_2015_3",
+        "set_october_2015_2",
+        "set_october_2015_1"
+    ],
+    "from": "2015-09-22 00:00:00",
+    "to": "2015-10-12 23:59:59",
+    "year": 2015
+}

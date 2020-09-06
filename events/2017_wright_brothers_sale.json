@@ -1,0 +1,9 @@
+{
+    "key": "wright_brothers_sale",
+    "name": "Wright Brothers Sale",
+    "items": [50509000],
+    "sets": ["set_wright_brothers_clothes"],
+    "from": "2017-03-24 00:00:00",
+    "to": "2017-03-26 11:00:00",
+    "year": 2017
+}
