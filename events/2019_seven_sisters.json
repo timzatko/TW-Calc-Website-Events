@@ -33,5 +33,6 @@
     "to": "2019-04-15 23:59:59",
     "year": 2019,
     "quests": [202],
-    "forum_url": "https://forum.beta.the-west.net/index.php?threads/seven-sisters-event.3408/"
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/seven-sisters-event.3408/",
+    "widget_config": ["FFE7B1", "322212"]
 }
