@@ -4,12 +4,13 @@
     "main": "index.js",
     "scripts": {
         "build": "node ./scripts/build.js",
+        "events:lint": "node scripts/validate-events.js",
         "lint": "npm run prettier:lint && npm run schema:lint && npm run events:lint",
         "prettier": "prettier \"**/*.{js,json,md}\"",
         "prettier:write": "npm run prettier -- --write",
         "prettier:lint": "npm run prettier -- --list-different",
         "schema:lint": "ajv -s schema.json -d \"events/**.json\"",
-        "events:lint": "node scripts/validate-events.js"
+        "deploy": "node ./scripts/deploy.js"
     },
     "repository": {
         "type": "git",
@@ -31,6 +32,7 @@
     },
     "dependencies": {
         "ajv-cli": "^3.3.0",
+        "axios": "^0.20.0",
         "husky": "^4.2.5",
         "lint-staged": "^10.3.0",
         "pre-commit": "^1.2.2",

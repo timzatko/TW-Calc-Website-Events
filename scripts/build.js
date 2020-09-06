@@ -1,24 +1,22 @@
 const path = require('path');
 const fs = require('fs');
 
-const { getEvent, getEventFiles } = require('./utils');
+const { getEvent, getEventFiles, buildPath, buildFilePath } = require('./utils');
 
-const buildPath = path.join(__dirname, '..', 'dist');
-const outFile = path.join(buildPath, 'events.json');
 const events = [];
 
 console.log('Building...');
 
 getEventFiles().forEach(fileName => {
-    const contents = getEvent(fileName);
+    const event = getEvent(fileName);
 
-    events.push(contents);
+    events.push(event);
 });
 
 if (!fs.existsSync(buildPath)) {
     fs.mkdirSync(buildPath);
 }
 
-fs.writeFileSync(outFile, JSON.stringify(events));
+fs.writeFileSync(buildFilePath, JSON.stringify(events));
 
-console.log('Success! Output: ' + outFile);
+console.log('Success! Output: ' + buildFilePath);

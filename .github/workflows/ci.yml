@@ -47,3 +47,8 @@ jobs:
       - uses: actions/download-artifact@v1
         with:
           name: build
+      - run: npm ci
+      - shell: bash
+        env:
+          TW_CALC_API_KEY: ${{ secrets.TW_CALC_API_KEY }}
+        run: npm run deploy -- "$TW_CALC_API_KEY"
