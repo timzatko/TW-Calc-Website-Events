@@ -3,10 +3,11 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
+        "build": "node ./scripts/build.js",
         "prettier": "prettier \"**/*.{js,json,md}\"",
         "prettier:write": "npm run prettier -- --write",
         "prettier:lint": "npm run prettier -- --list-different",
-        "schema": "ajv -s schema.json -d \"events/**.json\""
+        "schema:lint": "ajv -s schema.json -d \"events/**.json\""
     },
     "repository": {
         "type": "git",
