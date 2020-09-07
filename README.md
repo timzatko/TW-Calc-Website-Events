@@ -15,6 +15,7 @@ To update the event on the website you need to update the respective file of tha
 ## Contributing
 
 We are happy you would like to contribute! Please read the instructions below to get familiar with the process.
+As soon as you get familiar with the process, fork the repository, make the desired and submit the pull request.
 
 ### Setup
 
