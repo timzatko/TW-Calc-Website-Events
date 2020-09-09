@@ -3,10 +3,10 @@
     "name": "Harvest Sale",
     "items": [52131000, 52132000, 52133000],
     "sets": ["harvester_set_clothing", "harvester_set_animal", "harvester_set_weapon"],
-    "from": "2020-05-09 12:00:00",
-    "to": "2020-06-09 11:59:00",
+    "from": "2020-09-05 12:00:00",
+    "to": "2020-09-06 11:59:00",
     "year": 2020,
-    "beta_from": "2020-04-09 12:00:00",
-    "beta_to": "2020-06-09 11:59:00",
+    "beta_from": "2020-09-04 12:00:00",
+    "beta_to": "2020-09-06 11:59:00",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/harvester-sale.3574/"
 }
