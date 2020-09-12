@@ -66,6 +66,8 @@
     "year": 2020,
     "quests": [228],
     "tombola": 30,
+    "from": "2020-09-17 12:00:00",
+    "to": "2020-10-14 11:59:59",
     "beta_from": "2020-09-01 12:00:00",
     "beta_to": "2020-10-12 11:59:59",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-2020.3571/"
