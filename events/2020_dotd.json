@@ -25,8 +25,12 @@
         "dod_2020_set_8",
         "dod_2020_set_9"
     ],
+    "quests": [299],
     "year": 2020,
-    "beta_from": "2020-10-12 20:00:00",
+    "tombola": 31,
+    "from": "2020-11-5 12:00:00",
+    "to": "2020-11-23 11:59:59",
+    "beta_from": "2020-10-12 12:00:00",
     "beta_to": "2020-11-23 11:59:59",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/the-day-of-the-dead-2020.3604/"
 }
