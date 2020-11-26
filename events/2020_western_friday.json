@@ -1,0 +1,12 @@
+{
+    "key": "western_friday",
+    "name": "Western Friday",
+    "items": [51616000, 51997000, 51744000, 50992000, 50724000, 50896000, 51929000, 51930000, 51931000, 51998000],
+    "sets": ["unique_rare_set", "western_friday_weapon_set", "western_friday_horse_set", "black_friday_set"],
+    "from": "2020-11-27 12:00:00",
+    "to": "2020-11-29 12:00:00",
+    "year": 2020,
+    "beta_from": "2020-11-27 09:00:00",
+    "beta_to": "2020-11-29 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/western-friday-2020.3622/#post-38281"
+}
