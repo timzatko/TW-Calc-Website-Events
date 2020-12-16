@@ -43,8 +43,8 @@
     ],
     "quests": [230, 231, 232],
     "sets": ["christmas_set_1_2020", "christmas_set_2_2020", "christmas_set_3_2020"],
-    "beta_from": "2018-12-09 12:00:00",
-    "beta_to": "2019-01-07 12:00:00",
+    "beta_from": "2020-12-09 12:00:00",
+    "beta_to": "2021-01-07 12:00:00",
     "year": 2020,
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/gift-hunt-holiday-sale-2020.3632/#post-38394"
 }
