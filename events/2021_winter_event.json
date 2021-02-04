@@ -1,12 +1,12 @@
 {
     "key": "winter_event",
     "name": "Winter Event",
-    "items": [50368000, 52323000, 52322000],
-    "sets": ["set_wrightbrothers", "curling_set_1", "curling_set_2"],
-    "from": "2021-02-05 12:00:00",
-    "to": "2020-02-07 12:00:00",
+    "items": [52327000, 52330000, 52325000, 52329000, 52328000, 52326000],
+    "sets": ["curling_set_1", "curling_set_2"],
+    "from": "2021-02-03 12:00:00",
+    "to": "2020-02-12 12:00:00",
     "year": 2021,
-    "beta_from": "2021-02-05 12:00:00",
-    "beta_to": "2020-02-07 12:00:00",
-    "forum_url": "https://forum.beta.the-west.net/index.php?threads/winter-event-2020.3502/"
+    "beta_from": "2021-01-26 12:00:00",
+    "beta_to": "2020-02-12 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/winter-event-2021.3650/"
 }
