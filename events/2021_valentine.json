@@ -4,6 +4,7 @@
     "sets": ["valentine_2021_set_1", "valentine_2021_set_2", "valentine_2021_set_3", "valentine_2021_set_4"],
     "from": "2021-02-17 12:00:00",
     "to": "2021-03-08 11:59:59",
+    "quests": [234],
     "year": 2021,
     "tombola": 32,
     "beta_from": "2021-02-09 12:00:00",
