@@ -1,0 +1,26 @@
+{
+    "key": "easter",
+    "quests": [238],
+    "items": [52417000, 52426000, 52474000, 52486000, 52450000, 52462000, 52416000, 52435000],
+    "sets": [
+        "easter_chick_set_1",
+        "easter_chick_set_2",
+        "easter_sheep_set_1",
+        "easter_sheep_set_2",
+        "easter_hare_set_1",
+        "easter_hare_set_2",
+        "easter_2021_set1",
+        "easter_2021_set_2",
+        "easter_2021_set_3",
+        "easter_2021_set_5",
+        "easter_2021_set_6",
+        "easter_2021_set_7",
+        "easter_2021_set_8",
+        "easter_2021_set_9",
+        "easter_2021_set_10"
+    ],
+    "year": 2020,
+    "tombola": 33,
+    "beta_from": "2020-03-22 12:00:00",
+    "beta_to": "2020-04-22 12:00:00"
+}
