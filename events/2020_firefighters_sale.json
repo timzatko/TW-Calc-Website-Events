@@ -1,7 +1,8 @@
 {
     "key": "firefighters_sale",
     "name": "Firefighters Sale",
-    "sets": ["firefighter_set_1"],
+    "items": [51997000, 51998000],
+    "sets": ["firefighter_set_1", "firefighter_set_2"],
     "from": "2020-05-29 12:00:00",
     "to": "2020-05-31 12:00:00",
     "year": 2020,
