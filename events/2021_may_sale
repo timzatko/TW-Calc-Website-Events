@@ -1,0 +1,13 @@
+  
+{
+    "key": "may_sale",
+    "name": "May Sale",
+    "items": [52498000, 51139000, 51141000, 51140000, 51998000, 51997000],
+    "sets": ["firefighter_set_1", "firefighter_set_2", "chef_set_1", "chef_set_2"],
+    "from": "2021-04-30 12:00:00",
+    "to": "2021-05-01 12:00:00",
+    "year": 2021,
+    "beta_from": "2021-04-30 12:00:00",
+    "beta_to": "2021-05-01 12:00:00",
+    "forum_url": "https://forum.the-west.net/index.php?threads/may-sale-2021.60048/#post-777088"
+}
