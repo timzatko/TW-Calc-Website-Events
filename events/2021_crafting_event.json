@@ -1,7 +1,7 @@
 {
     "key": "crafting_event",
     "name": "Crafting Event",
-    "quests": [240],
+    "quests": [240, 241],
     "items": [
         52499000,
         52526000,
