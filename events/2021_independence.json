@@ -1,0 +1,22 @@
+{
+    "key": "independence",
+    "items": [52577000, 52573000, 52543000, 52561000, 52552000],
+    "sets": [
+        "independence_day_2021_set_1",
+        "independence_day_2021_set_2",
+        "independence_day_2021_set_3",
+        "independence_day_2021_set_4",
+        "independence_day_2021_set_5",
+        "independence_day_2021_set_6",
+        "independence_day_2021_set_7",
+        "independence_day_2021_set_8",
+        "independence_day_2021_set_10",
+        "independence_day_2021_set_11"
+    ],
+    "year": 2021,
+    "quests": [],
+    "tombola": 29,
+    "beta_from": "2020-06-15 14:00:00",
+    "beta_to": "2020-07-20 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/independence-event-2021.4027/#post-40141"
+}
