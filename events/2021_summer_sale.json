@@ -1,0 +1,19 @@
+{
+    "key": "summer_sale",
+    "items": [51249000, 51250000, 51067000],
+    "sets": [
+        "lucille_animal_set",
+        "lucille_weapon_set",
+        "2021_sale_set_june_1",
+        "2021_sale_set_june_2",
+        "2021_sale_set_june_3",
+        "2018_soccer_sale",
+        "vanity_sale_football_2017"
+    ],
+    "year": 2021,
+    "quests": [],
+    "tombola": 34,
+    "from": "2021-07-25 12:00:00",
+    "to": "2021-07-27 12:00:00",
+    "forum_url": "https://forum.the-west.net/index.php?threads/summer-sale-2021-announcement.60462/#post-777947"
+}
