@@ -1,8 +1,12 @@
-const { getEvent, getEventFiles } = require('./utils');
+const { getEvent } = require('./utils');
+const { basename } = require('path');
 
 console.log('Validating event file names...');
 
-getEventFiles().forEach(fileName => {
+const files = process.argv.splice(2);
+
+files.forEach(filePath => {
+    const fileName = basename(filePath);
     const event = getEvent(fileName);
     const expected = event.year + '_' + event.key + '.json';
 

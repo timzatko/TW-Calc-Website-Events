@@ -20,6 +20,5 @@ function getEventFiles() {
 
 function getEvent(fileName) {
     const filePath = path.join(eventsPath, fileName);
-
     return JSON.parse(fs.readFileSync(filePath, { encoding: 'utf8' }));
 }

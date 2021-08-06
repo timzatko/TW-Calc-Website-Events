@@ -4,13 +4,16 @@
     "main": "index.js",
     "scripts": {
         "build": "node ./scripts/build.js",
-        "events:lint": "node scripts/validate-events.js",
+        "events:lint": "npm run _events:lint -- events/**.json",
+        "_events:lint": "node scripts/validate-events.js",
         "lint": "npm run prettier:lint && npm run schema:lint && npm run events:lint",
         "prettier": "prettier \"**/*.{js,json,md}\"",
         "prettier:write": "npm run prettier -- --write",
         "prettier:lint": "npm run prettier -- --list-different",
-        "schema:lint": "ajv -s schema.json -d \"events/**.json\"",
-        "deploy": "node ./scripts/deploy.js"
+        "schema:lint": "npm run _schema:lint -- \"events/**.json\"",
+        "_schema:lint": "ajv -s schema.json -d",
+        "deploy": "node ./scripts/deploy.js",
+        "prepare": "husky install"
     },
     "repository": {
         "type": "git",
@@ -22,20 +25,21 @@
         "url": "https://github.com/timzatko/TW-Calc-Website-Events/issues"
     },
     "homepage": "https://github.com/timzatko/TW-Calc-Website-Events#readme",
-    "husky": {
-        "hooks": {
-            "pre-commit": "lint-staged"
-        }
-    },
     "lint-staged": {
-        "*.{js,json,md}": "prettier --write"
+        "*.{js,json,md}": "prettier --write",
+        "events/*.json": [
+            "npm run _schema:lint",
+            "npm run _events:lint"
+        ]
     },
     "dependencies": {
         "ajv-cli": "^3.3.0",
         "axios": "^0.21.1",
-        "husky": "^4.2.5",
         "lint-staged": "^10.3.0",
         "pre-commit": "^1.2.2",
         "prettier": "^2.1.1"
+    },
+    "devDependencies": {
+        "husky": "^7.0.0"
     }
 }
