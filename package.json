@@ -11,7 +11,7 @@
         "prettier:write": "npm run prettier -- --write",
         "prettier:lint": "npm run prettier -- --list-different",
         "schema:lint": "npm run _schema:lint -- \"events/**.json\"",
-        "_schema:lint": "ajv -s schema.json -d",
+        "_schema:lint": "node scripts/validate-schema.js",
         "deploy": "node ./scripts/deploy.js",
         "prepare": "husky install"
     },

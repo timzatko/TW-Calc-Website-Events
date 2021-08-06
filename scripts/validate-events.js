@@ -38,12 +38,11 @@ files.forEach(filePath => {
 
 function isYear(dateString, year) {
     const date = new Date(dateString);
-    console.log(date, year);
     return year === date.getFullYear();
 }
 
 function isBefore(dateString1, dateString2) {
-    return new Date(dateString1).getTime() < new Date(dateString2).getTime();
+    return new Date(dateString1).getTime() <= new Date(dateString2).getTime();
 }
 
 console.log('Success! All event file names are valid!');
