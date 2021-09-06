@@ -1,0 +1,10 @@
+{
+    "key": "harvest_time_event",
+    "name": "Harvest Event",
+    "sets": ["harvets_2021_set_1"],
+    "quests": [243, 245],
+    "year": 2021,
+    "beta_from": "2021-08-18 12:00:00",
+    "beta_to": "2021-09-09 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/harvest-event-2021.4062/"
+}
