@@ -1,6 +1,6 @@
 {
     "key": "harvest_time",
-    "sets": ["harvester_set_clothing", "harvester_set_animal", "harvester_set_weapon"],
+    "sets": ["harvester_set_clothing", "harvester_set_animal", "harvester_set_weapon", "sale_jfry_set_2019"],
     "year": 2021,
     "from": "2021-09-03 12:00:00",
     "to": "2021-09-05 12:00:00",
