@@ -1,0 +1,10 @@
+{
+    "key": "harvest_time",
+    "sets": ["harvester_set_clothing", "harvester_set_animal", "harvester_set_weapon"],
+    "year": 2021,
+    "from": "2021-09-03 12:00:00",
+    "to": "2021-09-05 12:00:00",
+    "beta_from": "2021-09-03 09:00:00",
+    "beta_to": "2021-09-05 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/harvest-sale-2021.4070/"
+}
