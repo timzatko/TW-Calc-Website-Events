@@ -1,0 +1,20 @@
+{
+    "key": "octoberfest",
+    "sets": [
+        "oktoberfest_set_2021_10",
+        "oktoberfest_set_2021_9",
+        "oktoberfest_set_2021_8",
+        "oktoberfest_set_2021_7",
+        "oktoberfest_set_2021_6",
+        "oktoberfest_set_2021_5",
+        "oktoberfest_set_2021_4",
+        "oktoberfest_set_2021_3",
+        "oktoberfest_set_2021_2",
+        "oktoberfest_set_2021_1"
+    ],
+    "year": 2021,
+    "tombola": 35,
+    "beta_from": "2021-09-07 12:00:00",
+    "beta_to": "2021-10-11 11:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-event-2021.4074/#post-40965"
+}
