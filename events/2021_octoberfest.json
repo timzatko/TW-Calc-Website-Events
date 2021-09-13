@@ -1,16 +1,16 @@
 {
     "key": "octoberfest",
     "sets": [
-        "oktoberfest_set_2021_10",
-        "oktoberfest_set_2021_9",
-        "oktoberfest_set_2021_8",
-        "oktoberfest_set_2021_7",
-        "oktoberfest_set_2021_6",
-        "oktoberfest_set_2021_5",
-        "oktoberfest_set_2021_4",
-        "oktoberfest_set_2021_3",
-        "oktoberfest_set_2021_2",
-        "oktoberfest_set_2021_1"
+        "oktoberfest_2021_set_10",
+        "oktoberfest_2021_set_9",
+        "oktoberfest_2021_set_8",
+        "oktoberfest_2021_set_7",
+        "oktoberfest_2021_set_6",
+        "oktoberfest_2021_set_5",
+        "oktoberfest_2021_set_4",
+        "oktoberfest_2021_set_3",
+        "oktoberfest_2021_set_2",
+        "oktoberfest_2021_set_1"
     ],
     "year": 2021,
     "tombola": 35,
