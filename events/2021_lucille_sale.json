@@ -1,0 +1,12 @@
+{
+    "key": "lucille_sale",
+    "name": "Lucille Sale",
+    "items": [51249000, 51250000],
+    "sets": ["lucille_animal_set", "lucille_weapon_set"],
+    "from": "2021-10-15 12:00:00",
+    "to": "2021-10-17 11:59:00",
+    "year": 2021,
+    "beta_from": "2021-10-15 09:00:00",
+    "beta_to": "2021-10-17 09:00:00",
+    "forum_url": "https://forum.the-west.net/index.php?threads/lucille-sale-2021.60581/"
+}
