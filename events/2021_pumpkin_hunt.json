@@ -1,0 +1,12 @@
+{
+    "key": "pumpkin_hunt",
+    "name": "Pumpkin Hunt",
+    "items": [52723000, 52725000, 52732000, 52729000, 52728000, 52727000],
+    "from": "2021-12-07 12:00:00",
+    "to": "2021-12-17 12:00:00",
+    "quests": [249],
+    "year": 2021,
+    "beta_from": "2021-11-30 12:00:00",
+    "beta_to": "2021-12-17 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/pumpkin-hunt-2021.4122/#post-41979"
+}
