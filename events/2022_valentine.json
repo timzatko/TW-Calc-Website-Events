@@ -2,7 +2,7 @@
     "key": "valentine",
     "items": [52791000, 52792000],
     "sets": ["valentine_2021_set_1", "valentine_2021_set_2", "valentine_2021_set_3"],
-    "quests": [],
+    "quests": [251],
     "year": 2022,
     "tombola": 37,
     "beta_from": "2022-01-27 12:00:00",
