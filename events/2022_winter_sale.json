@@ -1,0 +1,11 @@
+{
+    "key": "winter_sale",
+    "name": "Winter Sale",
+    "sets": ["curling_set_1", "curling_set_2"],
+    "items": [52322000, 52323000],
+    "year": 2022,
+    "quests": [],
+    "from": "2022-02-14 12:00:00",
+    "to": "2022-02-16 12:00:00",
+    "forum_url": "https://forum.the-west.net/index.php?threads/curling-players-sale-2022.60698/"
+}
