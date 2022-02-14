@@ -5,6 +5,8 @@
     "quests": [251],
     "year": 2022,
     "tombola": 37,
+    "from": "2022-02-10 12:00:00",
+    "to": "2022-03-01 11:59:59",
     "beta_from": "2022-01-27 12:00:00",
     "beta_to": "2022-02-22 11:59:59",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/valentines-day-event-2022.4165/"
