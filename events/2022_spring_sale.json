@@ -1,0 +1,17 @@
+{
+    "$schema": "https://raw.githubusercontent.com/timzatko/TW-Calc-Website-Events/master/schema.json",
+    "name": "Spring Sale",
+    "key": "spring_sale",
+    "items": [51931000, 51930000, 51929000, 51467000],
+    "sets": [
+        "community_event_2020_march",
+        "community_event_2020_march_2",
+        "eire_set_1",
+        "eire_set_2",
+        "eire_set_3",
+        "summer_spirit"
+    ],
+    "from": "2022-03-30 09:00:00",
+    "to": "2022-04-01 09:00:00",
+    "year": 2022
+}
