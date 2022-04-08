@@ -1,0 +1,34 @@
+{
+    "key": "easter",
+    "items": [
+        52856000,
+        52857000,
+        52859000,
+        52818000,
+        52821000,
+        52842000,
+        52852000,
+        52832000,
+        52861000,
+        52860000,
+        52858000
+    ],
+    "sets": [
+        "easter_2022_set1",
+        "easter_2022_set2",
+        "easter_2022_set3",
+        "easter_2022_set4",
+        "easter_2022_set5",
+        "easter_2022_set6",
+        "easter_2022_set7",
+        "easter_2022_set8",
+        "easter_2022_set9",
+        "easter_2022_set10"
+    ],
+    "quests": [255],
+    "year": 2022,
+    "tombola": 38,
+    "beta_from": "2022-04-06 12:00:00",
+    "beta_to": "2022-05-12 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/easter-event-2022.4201/"
+}
