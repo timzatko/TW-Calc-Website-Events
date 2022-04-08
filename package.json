@@ -34,7 +34,7 @@
         ]
     },
     "dependencies": {
-        "ajv-cli": "^3.3.0",
+        "ajv-cli": "^5.0.0",
         "axios": "^0.21.1",
         "lint-staged": "^10.3.0",
         "pre-commit": "^1.2.2",
