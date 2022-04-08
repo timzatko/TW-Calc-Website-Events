@@ -1,14 +1,13 @@
-const path = require('path');
 const fs = require('fs');
 
-const { getEvent, getEventFiles, buildPath, buildFilePath } = require('./utils');
+const { readEvent, getEventFiles, buildPath, buildFilePath } = require('./utils');
 
 const events = [];
 
 console.log('Building...');
 
 getEventFiles().forEach(fileName => {
-    const event = getEvent(fileName);
+    const event = readEvent(fileName);
 
     events.push(event);
 });
