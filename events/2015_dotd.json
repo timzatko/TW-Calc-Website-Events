@@ -1,15 +1,15 @@
 {
     "key": "dotd",
-    "items": [50383000, 1003000, 50384000],
+    "items": [1003000, 50383000, 50384000],
     "sets": [
-        "set_dotd_2015_3_animal",
-        "set_dotd_2015_2_animal",
-        "set_dotd_2015_3_weapon",
-        "set_dotd_2015_2_weapon",
+        "set_dotd_2015_1",
         "set_dotd_2015_1_weapon",
-        "set_dotd_2015_3",
         "set_dotd_2015_2",
-        "set_dotd_2015_1"
+        "set_dotd_2015_2_animal",
+        "set_dotd_2015_2_weapon",
+        "set_dotd_2015_3",
+        "set_dotd_2015_3_animal",
+        "set_dotd_2015_3_weapon"
     ],
     "from": "2015-11-06 10:00:00",
     "to": "2015-11-24 10:00:00",

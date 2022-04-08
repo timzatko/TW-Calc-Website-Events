@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/timzatko/TW-Calc-Website-Events/master/schema.json",
     "name": "Spring Sale",
     "key": "spring_sale",
-    "items": [51931000, 51930000, 51929000, 51467000],
+    "items": [51467000, 51929000, 51930000, 51931000],
     "sets": [
         "community_event_2020_march",
         "community_event_2020_march_2",

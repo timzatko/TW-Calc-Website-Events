@@ -19,12 +19,12 @@
         50853000
     ],
     "sets": [
-        "set_xmas17_male",
-        "set_xmas17_male_animal",
-        "set_xmas17_male_weapons",
         "set_xmas17_female",
         "set_xmas17_female_animal",
-        "set_xmas17_female_weapons"
+        "set_xmas17_female_weapons",
+        "set_xmas17_male",
+        "set_xmas17_male_animal",
+        "set_xmas17_male_weapons"
     ],
     "from": "2017-12-22 00:00:00",
     "to": "2018-01-07 11:00:00",

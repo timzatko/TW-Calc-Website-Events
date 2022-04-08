@@ -1,8 +1,8 @@
 {
     "key": "lucille_mulhall_sale",
     "name": "Lucille Mulhall Sale",
-    "items": [51250000, 51249000, 51467000],
-    "sets": ["lucille_weapon_set", "lucille_animal_set", "summer_spirit"],
+    "items": [51249000, 51250000, 51467000],
+    "sets": ["lucille_animal_set", "lucille_weapon_set", "summer_spirit"],
     "from": "2020-10-27 10:00:00",
     "to": "2020-10-29 10:00:00",
     "year": 2020,

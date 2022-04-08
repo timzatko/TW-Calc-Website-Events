@@ -1,6 +1,8 @@
 {
     "key": "easter",
     "items": [
+        50478000,
+        50479000,
         50489000,
         50490000,
         50491000,
@@ -14,19 +16,17 @@
         50499000,
         50500000,
         50501000,
-        50502000,
-        50478000,
-        50479000
+        50502000
     ],
     "sets": [
+        "set_easter_2017_4",
         "set_easter_2017_clothes_1",
+        "set_easter_2017_clothes_5",
         "set_easter_2017_weapons_1",
         "set_easter_2017_weapons_2",
-        "set_easter_clothes_3",
         "set_easter_2017_weapons_3",
-        "set_easter_2017_4",
-        "set_easter_2017_clothes_5",
-        "set_easter_2017_weapons_5"
+        "set_easter_2017_weapons_5",
+        "set_easter_clothes_3"
     ],
     "from": "2017-04-03 00:00:00",
     "to": "2017-04-24 00:00:00",

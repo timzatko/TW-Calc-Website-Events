@@ -4,8 +4,9 @@
     "main": "index.js",
     "scripts": {
         "build": "node ./scripts/build.js",
-        "events:lint": "npm run _events:lint -- events/**.json",
+        "events:lint": "npm run _events:lint -- events/**.json && npm run _events:write -- events/**.json",
         "_events:lint": "node scripts/validate-events.js",
+        "_events:write": "node scripts/write-events.js",
         "lint": "npm run prettier:lint && npm run schema:lint && npm run events:lint",
         "prettier": "prettier \"**/*.{js,json,md}\"",
         "prettier:write": "npm run prettier -- --write",

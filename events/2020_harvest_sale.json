@@ -2,7 +2,7 @@
     "key": "harvest_sale",
     "name": "Harvest Sale",
     "items": [52131000, 52132000, 52133000],
-    "sets": ["harvester_set_clothing", "harvester_set_animal", "harvester_set_weapon"],
+    "sets": ["harvester_set_animal", "harvester_set_clothing", "harvester_set_weapon"],
     "from": "2020-09-05 12:00:00",
     "to": "2020-09-06 11:59:00",
     "year": 2020,

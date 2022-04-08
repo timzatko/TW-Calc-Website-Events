@@ -1,8 +1,9 @@
 {
     "key": "independence",
-    "items": [52070000, 52090000, 52080000, 52112000, 52110000, 52109000, 52111000, 52106000, 52088000],
+    "items": [52070000, 52080000, 52088000, 52090000, 52106000, 52109000, 52110000, 52111000, 52112000],
     "sets": [
         "independence_day_2020_set_1",
+        "independence_day_2020_set_10",
         "independence_day_2020_set_2",
         "independence_day_2020_set_3",
         "independence_day_2020_set_4",
@@ -10,8 +11,7 @@
         "independence_day_2020_set_6",
         "independence_day_2020_set_7",
         "independence_day_2020_set_8",
-        "independence_day_2020_set_9",
-        "independence_day_2020_set_10"
+        "independence_day_2020_set_9"
     ],
     "to": "2020-07-02 11:00:00",
     "from": "2020-06-23 23:59:59",

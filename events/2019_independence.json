@@ -65,6 +65,8 @@
     ],
     "sets": [
         "independence_day_2019_set_1",
+        "independence_day_2019_set_10",
+        "independence_day_2019_set_11",
         "independence_day_2019_set_2",
         "independence_day_2019_set_3",
         "independence_day_2019_set_4",
@@ -72,9 +74,7 @@
         "independence_day_2019_set_6",
         "independence_day_2019_set_7",
         "independence_day_2019_set_8",
-        "independence_day_2019_set_9",
-        "independence_day_2019_set_10",
-        "independence_day_2019_set_11"
+        "independence_day_2019_set_9"
     ],
     "from": "2019-07-04 11:00:00",
     "to": "2019-07-25 23:59:59",

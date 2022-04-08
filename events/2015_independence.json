@@ -2,14 +2,14 @@
     "key": "independence",
     "items": [2721000, 2722000, 2723000, 2728000],
     "sets": [
-        "set_4july_2015_weapon_ranking_winner",
-        "set_4july_2015_ranking",
-        "set_4july_2015_animal_3",
-        "set_4july_2015_animal_2",
-        "set_4july_2015_animal_1",
-        "set_4july_2015_3",
+        "set_4july_2015_1",
         "set_4july_2015_2",
-        "set_4july_2015_1"
+        "set_4july_2015_3",
+        "set_4july_2015_animal_1",
+        "set_4july_2015_animal_2",
+        "set_4july_2015_animal_3",
+        "set_4july_2015_ranking",
+        "set_4july_2015_weapon_ranking_winner"
     ],
     "from": "2015-06-30 10:00:00",
     "to": "2018-07-20 10:00:00",

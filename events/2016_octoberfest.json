@@ -1,8 +1,6 @@
 {
     "key": "octoberfest",
     "items": [
-        50256000,
-        50257000,
         50207000,
         50208000,
         50209000,
@@ -50,17 +48,19 @@
         50252000,
         50253000,
         50254000,
-        50255000
+        50255000,
+        50256000,
+        50257000
     ],
     "sets": [
-        "set_oktoberfest_2016_3_weapon",
-        "set_oktoberfest_2016_2_weapon",
+        "set_oktoberfest_2016_1",
         "set_oktoberfest_2016_1_weapon",
-        "set_oktoberfest_2016_5",
-        "set_oktoberfest_2016_3",
-        "set_oktoberfest_2016_4",
         "set_oktoberfest_2016_2",
-        "set_oktoberfest_2016_1"
+        "set_oktoberfest_2016_2_weapon",
+        "set_oktoberfest_2016_3",
+        "set_oktoberfest_2016_3_weapon",
+        "set_oktoberfest_2016_4",
+        "set_oktoberfest_2016_5"
     ],
     "from": "2016-09-14 10:00:00",
     "to": "2017-10-06 23:59:59",

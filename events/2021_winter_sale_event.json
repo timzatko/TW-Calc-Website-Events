@@ -1,8 +1,8 @@
 {
     "key": "winter_sale_event",
     "name": "Winter Sale Event",
-    "items": [50368000, 52323000, 52322000],
-    "sets": ["set_wrightbrothers", "curling_set_1", "curling_set_2"],
+    "items": [50368000, 52322000, 52323000],
+    "sets": ["curling_set_1", "curling_set_2", "set_wrightbrothers"],
     "from": "2021-02-05 12:00:00",
     "to": "2021-02-07 12:00:00",
     "year": 2021,

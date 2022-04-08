@@ -1,14 +1,14 @@
 {
     "key": "dotd",
-    "items": [50765000, 50762000, 50763000, 50761000, 50764000, 50760000, 50736000],
+    "items": [50736000, 50760000, 50761000, 50762000, 50763000, 50764000, 50765000],
     "sets": [
         "set_dod_2017_1_clothes",
         "set_dod_2017_1_weapons",
-        "set_dod_2017_2_clothes",
         "set_dod_2017_2_animal",
+        "set_dod_2017_2_clothes",
         "set_dod_2017_2_weapons",
-        "set_dod_2017_3_clothes",
-        "set_dod_2017_3_animal"
+        "set_dod_2017_3_animal",
+        "set_dod_2017_3_clothes"
     ],
     "from": "2017-11-08 11:00:00",
     "to": "2017-11-23 23:59:59",

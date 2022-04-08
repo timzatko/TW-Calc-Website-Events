@@ -1,13 +1,13 @@
-const { getEvent } = require('./utils');
+const { readEvent } = require('./utils');
 const { basename } = require('path');
 
-console.log('Validating event file names...');
+console.log('Validating event definitions...');
 
 const files = process.argv.splice(2);
 
 files.forEach(filePath => {
     const fileName = basename(filePath);
-    const event = getEvent(fileName);
+    const event = readEvent(fileName);
     const expected = event.year + '_' + event.key + '.json';
 
     if (fileName !== expected) {
@@ -45,4 +45,4 @@ function isBefore(dateString1, dateString2) {
     return new Date(dateString1).getTime() <= new Date(dateString2).getTime();
 }
 
-console.log('Success! All event file names are valid!');
+console.log('Success! All event definitions are valid!');

@@ -8,7 +8,8 @@ const buildFilePath = path.join(buildPath, 'events.json');
 
 module.exports = {
     getEventFiles,
-    getEvent,
+    readEvent,
+    writeEvent,
     buildPath,
     buildFilePath,
     target,
@@ -18,7 +19,12 @@ function getEventFiles() {
     return fs.readdirSync(eventsPath);
 }
 
-function getEvent(fileName) {
+function readEvent(fileName) {
     const filePath = path.join(eventsPath, fileName);
     return JSON.parse(fs.readFileSync(filePath, { encoding: 'utf8' }));
+}
+
+function writeEvent(fileName, event) {
+    const filePath = path.join(eventsPath, fileName);
+    fs.writeFileSync(filePath, JSON.stringify(event), { encoding: 'utf8' });
 }

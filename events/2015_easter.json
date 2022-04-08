@@ -1,7 +1,7 @@
 {
     "key": "easter",
-    "items": [2700000, 2701000, 2699000, 2698000],
-    "sets": ["set_easter_2015_5", "set_easter_2015_4", "set_easter_2015_3", "set_easter_2015_2", "set_easter_2015_1"],
+    "items": [2698000, 2699000, 2700000, 2701000],
+    "sets": ["set_easter_2015_1", "set_easter_2015_2", "set_easter_2015_3", "set_easter_2015_4", "set_easter_2015_5"],
     "from": "2015-03-31 00:00:00",
     "to": "2015-04-20 23:59:59",
     "year": 2015

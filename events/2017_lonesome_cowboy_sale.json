@@ -2,7 +2,7 @@
     "key": "lonesome_cowboy_sale",
     "name": "Lonesome Cowboy Sale",
     "items": [50724000],
-    "sets": ["set_sale_cowboy_2017_clothes", "set_sale_cowboy_2017_animal", "set_sale_cowboy_2017_weapons"],
+    "sets": ["set_sale_cowboy_2017_animal", "set_sale_cowboy_2017_clothes", "set_sale_cowboy_2017_weapons"],
     "from": "2017-10-27 00:00:00",
     "to": "2017-10-29 11:00:00",
     "year": 2017,

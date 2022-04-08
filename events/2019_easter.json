@@ -50,6 +50,7 @@
         51456000
     ],
     "sets": [
+        "easter_set_10_2019",
         "easter_set_1_2019",
         "easter_set_2_2019",
         "easter_set_3_2019",
@@ -58,8 +59,7 @@
         "easter_set_6_2019",
         "easter_set_7_2019",
         "easter_set_8_2019",
-        "easter_set_9_2019",
-        "easter_set_10_2019"
+        "easter_set_9_2019"
     ],
     "from": "2019-04-16 00:00:00",
     "to": "2019-05-09 10:00:00",

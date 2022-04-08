@@ -1,7 +1,7 @@
 {
     "key": "carnival_event",
     "name": "Carnival event",
-    "items": [50896000, 50895000, 50894000],
+    "items": [50894000, 50895000, 50896000],
     "sets": ["set_carnival_2018_1", "set_carnival_2018_2"],
     "from": "2018-03-06 11:00:00",
     "to": "2018-03-20 23:59:59",

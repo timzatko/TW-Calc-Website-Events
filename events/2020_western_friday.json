@@ -1,8 +1,8 @@
 {
     "key": "western_friday",
     "name": "Western Friday",
-    "items": [51616000, 51997000, 51744000, 50992000, 50724000, 50896000, 51929000, 51930000, 51931000, 51998000],
-    "sets": ["unique_rare_set", "western_friday_weapon_set", "western_friday_horse_set", "black_friday_set"],
+    "items": [50724000, 50896000, 50992000, 51616000, 51744000, 51929000, 51930000, 51931000, 51997000, 51998000],
+    "sets": ["black_friday_set", "unique_rare_set", "western_friday_horse_set", "western_friday_weapon_set"],
     "from": "2020-11-27 12:00:00",
     "to": "2020-11-29 12:00:00",
     "year": 2020,

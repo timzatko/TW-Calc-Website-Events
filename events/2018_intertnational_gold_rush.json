@@ -1,7 +1,7 @@
 {
     "key": "intertnational_gold_rush",
     "name": "International Gold Rush",
-    "sets": ["gold_rush_weapons", "gold_rush_clothes", "gold_rush_animal"],
+    "sets": ["gold_rush_animal", "gold_rush_clothes", "gold_rush_weapons"],
     "from": "2018-08-15 10:00:00",
     "to": "2018-09-04 23:59:59",
     "year": 2018,

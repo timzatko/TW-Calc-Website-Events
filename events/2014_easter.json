@@ -2,13 +2,13 @@
     "key": "easter",
     "items": [2579000, 2580000, 2581000],
     "sets": [
-        "set_easter_2014_weapon_1",
-        "set_easter_2014_weapon_2",
-        "set_easter_2014_weapon_3",
-        "set_easter_2014_ranking",
         "set_easter_2014_1",
         "set_easter_2014_2",
         "set_easter_2014_3",
+        "set_easter_2014_ranking",
+        "set_easter_2014_weapon_1",
+        "set_easter_2014_weapon_2",
+        "set_easter_2014_weapon_3",
         "set_easter_2014_weapon_ranking_winner"
     ],
     "from": "2014-04-20 00:00:00",

@@ -28,6 +28,7 @@
         50700000
     ],
     "sets": [
+        "set_oktoberfest-2017_set_4_female",
         "set_oktoberfest_2017_set_1",
         "set_oktoberfest_2017_set_1_animal",
         "set_oktoberfest_2017_set_2",
@@ -35,7 +36,6 @@
         "set_oktoberfest_2017_set_3",
         "set_oktoberfest_2017_set_3_weapons",
         "set_oktoberfest_2017_set_4_male",
-        "set_oktoberfest-2017_set_4_female",
         "set_oktoberfest_2017_set_5_weapons"
     ],
     "from": "2017-09-14 11:00:00",

@@ -1,7 +1,7 @@
 {
     "key": "valentine",
-    "items": [50025000, 50023000, 2557000, 2558000],
-    "sets": ["set_valentine_2016_wof", "set_valentine_2016_horse", "set_valentine_2016"],
+    "items": [2557000, 2558000, 50023000, 50025000],
+    "sets": ["set_valentine_2016", "set_valentine_2016_horse", "set_valentine_2016_wof"],
     "from": "2016-02-12 10:00:00",
     "to": "2016-03-03 10:00:00",
     "year": 2016

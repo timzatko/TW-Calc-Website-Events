@@ -1,7 +1,7 @@
 {
     "key": "mountaineering_sale",
     "name": "Mountaineering Sale!",
-    "items": [1002000, 1001000],
+    "items": [1001000, 1002000],
     "from": "2015-10-20 11:00:00",
     "to": "2015-10-22 11:00:00",
     "year": 2015

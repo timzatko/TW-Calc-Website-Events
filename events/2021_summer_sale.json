@@ -1,14 +1,14 @@
 {
     "name": "Summer Sale",
     "key": "summer_sale",
-    "items": [51249000, 51250000, 51067000],
+    "items": [51067000, 51249000, 51250000],
     "sets": [
-        "lucille_animal_set",
-        "lucille_weapon_set",
+        "2018_soccer_sale",
         "2021_sale_set_june_1",
         "2021_sale_set_june_2",
         "2021_sale_set_june_3",
-        "2018_soccer_sale",
+        "lucille_animal_set",
+        "lucille_weapon_set",
         "vanity_sale_football_2017"
     ],
     "year": 2021,

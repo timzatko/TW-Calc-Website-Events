@@ -1,7 +1,7 @@
 {
     "key": "valentine",
     "items": [50409000],
-    "sets": ["set_valentine_2017_3", "set_valentine_2017_2", "set_valentine_2017_1"],
+    "sets": ["set_valentine_2017_1", "set_valentine_2017_2", "set_valentine_2017_3"],
     "from": "2017-02-09 11:00:00",
     "to": "2017-03-06 11:00:00",
     "year": 2017,

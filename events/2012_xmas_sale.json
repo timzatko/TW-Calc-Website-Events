@@ -3,10 +3,10 @@
     "items": [2173000, 2174000, 2175000],
     "sets": [
         "set_duelist",
-        "set_fort",
-        "set_fortunehunter",
-        "set_fort_gun",
         "set_duelist_gun",
+        "set_fort",
+        "set_fort_gun",
+        "set_fortunehunter",
         "set_fortunehunter_gun"
     ],
     "from": "2012-12-21 00:00:00",

@@ -1,15 +1,15 @@
 {
     "key": "dotd",
-    "items": [2674000, 50002000, 2673000, 2665000, 2666000],
+    "items": [2665000, 2666000, 2673000, 2674000, 50002000],
     "sets": [
-        "set_dayofthedead_2014_weapon_4",
-        "set_dayofthedead_2014_weapon_3",
-        "set_dayofthedead_2014_animal_4",
-        "set_dayofthedead_2014_animal_3",
-        "set_dayofthedead_2014_4",
-        "set_dayofthedead_2014_3",
+        "set_dayofthedead_2014_1",
         "set_dayofthedead_2014_2",
-        "set_dayofthedead_2014_1"
+        "set_dayofthedead_2014_3",
+        "set_dayofthedead_2014_4",
+        "set_dayofthedead_2014_animal_3",
+        "set_dayofthedead_2014_animal_4",
+        "set_dayofthedead_2014_weapon_3",
+        "set_dayofthedead_2014_weapon_4"
     ],
     "from": "2014-10-30 10:00:00",
     "to": "2014-11-17 23:59:59",

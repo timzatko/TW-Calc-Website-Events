@@ -2,8 +2,8 @@
     "key": "independence",
     "items": [51089000, 51098000, 51107000, 51122000],
     "sets": [
-        "independance_event_set1",
         "indepandance_event_set2",
+        "independance_event_set1",
         "independance_event_set3",
         "independance_event_set4",
         "independance_event_set5",

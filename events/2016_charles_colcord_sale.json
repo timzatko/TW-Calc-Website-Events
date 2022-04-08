@@ -1,7 +1,7 @@
 {
     "key": "charles_colcord_sale",
     "name": "Charles Colcord Sale",
-    "items": [50187000, 50185000, 50186000],
+    "items": [50185000, 50186000, 50187000],
     "sets": ["set_colcord"],
     "from": "2016-08-07 11:00:00",
     "to": "2016-08-15 11:00:00",

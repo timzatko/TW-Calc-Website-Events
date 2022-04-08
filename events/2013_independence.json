@@ -2,12 +2,12 @@
     "key": "independence",
     "items": [2297000, 2298000, 2299000, 2300000],
     "sets": [
-        "set_independence_gun_3",
-        "set_independence_gun_2",
-        "set_independence_gun_1",
-        "set_independence_3",
-        "set_independence_2",
         "set_independence_1",
+        "set_independence_2",
+        "set_independence_3",
+        "set_independence_gun_1",
+        "set_independence_gun_2",
+        "set_independence_gun_3",
         "set_independence_gun_winner"
     ],
     "from": "2013-07-04 00:00:00",
