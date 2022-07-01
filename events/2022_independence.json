@@ -1,8 +1,12 @@
 {
     "key": "independence",
-    "items": [52931000, 52898000, 52911000, 52915000, 52903000],
+    "items": [52898000, 52903000, 52911000, 52915000, 52931000],
     "sets": [
         "independence_day_2022_set_1",
+        "independence_day_2022_set_10",
+        "independence_day_2022_set_11",
+        "independence_day_2022_set_12",
+        "independence_day_2022_set_13",
         "independence_day_2022_set_2",
         "independence_day_2022_set_3",
         "independence_day_2022_set_4",
@@ -10,15 +14,11 @@
         "independence_day_2022_set_6",
         "independence_day_2022_set_7",
         "independence_day_2022_set_8",
-        "independence_day_2022_set_9",
-        "independence_day_2022_set_10",
-        "independence_day_2022_set_11",
-        "independence_day_2022_set_12",
-        "independence_day_2022_set_13"
+        "independence_day_2022_set_9"
     ],
     "quests": [257],
     "year": 2022,
-    "beta_from": "2012-06-29 12:00:00",
-    "beta_to": "2012-07-26 12:00:00",
+    "beta_from": "2022-06-29 12:00:00",
+    "beta_to": "2022-07-26 12:00:00",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/independence-day-2022.4237/#post-44201"
 }
