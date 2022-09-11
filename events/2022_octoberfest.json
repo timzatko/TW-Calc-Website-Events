@@ -1,0 +1,22 @@
+{
+    "key": "octoberfest",
+    "items": [53037000, 53005000, 53007000, 52977000, 52948000, 52935000, 52943000, 52952000, 52965000],
+    "sets": [
+        "oktoberfest_2022_set_1",
+        "oktoberfest_2022_set_2",
+        "oktoberfest_2022_set_3",
+        "oktoberfest_2022_set_4",
+        "oktoberfest_2022_set_5",
+        "oktoberfest_2022_set_6",
+        "oktoberfest_2022_set_7",
+        "oktoberfest_2022_set_8",
+        "oktoberfest_2022_set_9",
+        "oktoberfest_2022_set_10"
+    ],
+    "quests": [259, 260],
+    "year": 2022,
+    "tombola": 40,
+    "beta_from": "2022-09-07 12:00:00",
+    "beta_to": "2022-10-11 11:59:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-event-2022.4266/"
+}
