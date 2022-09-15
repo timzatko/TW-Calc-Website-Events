@@ -16,6 +16,8 @@
     "quests": [259, 260],
     "year": 2022,
     "tombola": 40,
+    "from": "2022-09-15 12:00:00",
+    "to": "2022-10-11 11:59:00",
     "beta_from": "2022-09-07 12:00:00",
     "beta_to": "2022-10-11 11:59:00",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-event-2022.4266/"
