@@ -1,0 +1,21 @@
+{
+    "key": "dotd",
+    "items": [53058000, 53070000, 53082000, 53084000, 53085000],
+    "sets": [
+        "dod_2022_set_1",
+        "dod_2022_set_2",
+        "dod_2022_set_3",
+        "dod_2022_set_4",
+        "dod_2022_set_5",
+        "dod_2022_set_6",
+        "dod_2022_set_7",
+        "dod_2022_set_8",
+        "dod_2022_set_9"
+    ],
+    "quests": [263],
+    "year": 2022,
+    "tombola": 41,
+    "beta_from": "2022-10-20 12:00:00",
+    "beta_to": "2022-11-15 11:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/day-of-the-dead-2022.4293/"
+}
