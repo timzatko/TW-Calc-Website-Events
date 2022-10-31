@@ -1,0 +1,12 @@
+{
+    "key": "halloween_sale",
+    "name": "Halloween Sale",
+    "items": [52684000, 52676000, 52677000, 52678000, 52679000, 52680000, 52681000, 52682000, 52683000],
+    "year": 2022,
+    "quests": [],
+    "from": "2022-10-31 12:00:00",
+    "to": "2022-11-02 12:00:00",
+    "beta_from": "2022-10-31 09:00:00",
+    "beta_to": "2022-11-02 09:00:00",
+    "forum_url": "https://forum.the-west.net/index.php?threads/halloween-sale-2022.61010/#post-794521"
+}
