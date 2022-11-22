@@ -1,0 +1,12 @@
+{
+    "key": "lucille_sale",
+    "name": "Lucille Sale",
+    "items": [51249000, 51250000],
+    "sets": ["lucille_animal_set", "lucille_weapon_set"],
+    "from": "2022-11-17 12:00:00",
+    "to": "2022-11-19 12:00:00",
+    "beta_from": "2022-11-17 09:00:00",
+    "beta_to": "2022-11-19 09:00:00",
+    "year": 2022,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/lucille-mulhall-sale-2022.4322"
+}
