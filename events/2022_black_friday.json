@@ -1,0 +1,31 @@
+{
+    "key": "black_friday",
+    "name": "Black friday",
+    "items": [
+        51997000,
+        51998000,
+        50128000,
+        51744000,
+        50368000,
+        50509000,
+        51310000,
+        51311000,
+        51312000,
+        51795000,
+        51796000,
+        51797000,
+        40235000
+    ],
+    "sets": [
+        "western_friday_weapon_set",
+        "western_friday_horse_set",
+        "set_wrightbrothers",
+        "2018_soccer_sale",
+        "firefighter_set_1",
+        "firefighter_set_2"
+    ],
+    "from": "2022-11-25 12:00:00",
+    "to": "2022-11-27 12:00:00",
+    "year": 2022,
+    "forum_url": "https://forum.the-west.net/index.php?threads/western-friday-2022.61030/"
+}
