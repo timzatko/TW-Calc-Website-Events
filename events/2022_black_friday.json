@@ -26,6 +26,8 @@
     ],
     "from": "2022-11-25 12:00:00",
     "to": "2022-11-27 12:00:00",
+    "beta_from": "2022-11-25 09:00:00",
+    "beta_to": "2022-11-27 09:00:00",
     "year": 2022,
     "forum_url": "https://forum.the-west.net/index.php?threads/western-friday-2022.61030/"
 }
