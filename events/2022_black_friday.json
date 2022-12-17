@@ -2,27 +2,27 @@
     "key": "black_friday",
     "name": "Black friday",
     "items": [
-        51997000,
-        51998000,
+        40235000,
         50128000,
-        51744000,
         50368000,
         50509000,
         51310000,
         51311000,
         51312000,
+        51744000,
         51795000,
         51796000,
         51797000,
-        40235000
+        51997000,
+        51998000
     ],
     "sets": [
-        "western_friday_weapon_set",
-        "western_friday_horse_set",
-        "set_wrightbrothers",
         "2018_soccer_sale",
         "firefighter_set_1",
-        "firefighter_set_2"
+        "firefighter_set_2",
+        "set_wrightbrothers",
+        "western_friday_horse_set",
+        "western_friday_weapon_set"
     ],
     "from": "2022-11-25 12:00:00",
     "to": "2022-11-27 12:00:00",

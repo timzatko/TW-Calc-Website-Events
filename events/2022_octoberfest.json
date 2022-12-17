@@ -1,8 +1,9 @@
 {
     "key": "octoberfest",
-    "items": [53037000, 53005000, 53007000, 52977000, 52948000, 52935000, 52943000, 52952000, 52965000],
+    "items": [52935000, 52943000, 52948000, 52952000, 52965000, 52977000, 53005000, 53007000, 53037000],
     "sets": [
         "oktoberfest_2022_set_1",
+        "oktoberfest_2022_set_10",
         "oktoberfest_2022_set_2",
         "oktoberfest_2022_set_3",
         "oktoberfest_2022_set_4",
@@ -10,8 +11,7 @@
         "oktoberfest_2022_set_6",
         "oktoberfest_2022_set_7",
         "oktoberfest_2022_set_8",
-        "oktoberfest_2022_set_9",
-        "oktoberfest_2022_set_10"
+        "oktoberfest_2022_set_9"
     ],
     "quests": [259, 260],
     "year": 2022,
