@@ -1,0 +1,13 @@
+{
+    "key": "valentine",
+    "items": [53270000],
+    "sets": ["valentine_2023_set_1", "valentine_2023_set_2", "valentine_2023_set_3", "valentine_2023_set_4"],
+    "quests": [251],
+    "year": 2023,
+    "tombola": 42,
+    "from": "2023-02-07 12:00:00",
+    "to": "2023-03-06 11:59:00",
+    "beta_from": "2023-02-15 12:00:00",
+    "beta_to": "2023-03-06 11:59:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/valentines-day-event-2023.4398/"
+}

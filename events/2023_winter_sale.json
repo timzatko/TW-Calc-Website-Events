@@ -1,13 +1,12 @@
 {
     "key": "winter_sale",
     "name": "Winter Sale",
-    "sets": ["oktoberfest_2022_premium_set_3", "oktoberfest_2022_premium_set_2", "oktoberfest_2022_premium_set_1"],
-    "items": [52322000, 52323000],
+    "items": [52315000, 52314000, 52316000, 52313000, 52323000, 52322000, 52321000],
     "year": 2023,
     "quests": [],
-    "from": "2023-02-03 12:00:00",
-    "to": "2023-02-05 12:00:00",
-    "beta_from": "2023-02-03 09:00:00",
-    "beta_to": "2023-02-05 09:00:00",
-    "forum_url": "https://forum.beta.the-west.net/index.php"
+    "from": "2023-02-13 12:00:00",
+    "to": "2023-02-15 12:00:00",
+    "beta_from": "2023-02-13 09:00:00",
+    "beta_to": "2023-02-15 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/winter-event-2023-shop-offer.4403/"
 }

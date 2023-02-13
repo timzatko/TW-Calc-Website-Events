@@ -1,0 +1,13 @@
+{
+    "key": "february_sale",
+    "name": "February Sale",
+    "sets": ["oktoberfest_2022_premium_set_3", "oktoberfest_2022_premium_set_2", "oktoberfest_2022_premium_set_1"],
+    "items": [52322000, 52323000],
+    "year": 2023,
+    "quests": [],
+    "from": "2023-02-03 12:00:00",
+    "to": "2023-02-05 12:00:00",
+    "beta_from": "2023-02-03 09:00:00",
+    "beta_to": "2023-02-05 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/february-2023-sale.4393/"
+}
