@@ -2,7 +2,7 @@
     "key": "valentine",
     "items": [53270000],
     "sets": ["valentine_2023_set_1", "valentine_2023_set_2", "valentine_2023_set_3", "valentine_2023_set_4"],
-    "quests": [251],
+    "quests": [267],
     "year": 2023,
     "tombola": 42,
     "from": "2023-02-07 12:00:00",
