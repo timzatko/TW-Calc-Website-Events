@@ -1,0 +1,23 @@
+{
+    "key": "spring_sale",
+    "items": [50896000, 52573000, 52902000, 52976000],
+    "sets": [
+        "easter_2022_set10",
+        "easter_2022_set11",
+        "easter_2022_set2",
+        "independence_day_2022_set_6",
+        "independence_day_2022_set_9",
+        "independence_day_2022_set_12",
+        "oktoberfest_2022_premium_set_2",
+        "oktoberfest_2022_premium_set_3",
+        "oktoberfest_2022_premium_set_1",
+        "set_carnival_2018_2",
+        "set_carnival_2018_1"
+    ],
+    "year": 2023,
+    "from": "2023-03-17 12:00:00",
+    "to": "2023-03-19 12:00:00",
+    "beta_from": "2023-03-17 09:00:00",
+    "beta_to": "2023-03-19 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/spring-sale-carnival-in-the-wild-west-2023.4429/#post-48083"
+}
