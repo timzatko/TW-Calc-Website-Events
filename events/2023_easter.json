@@ -1,0 +1,27 @@
+{
+    "key": "easter",
+    "items": [53317000, 53322000, 53293000, 53321000, 53305000, 53323000],
+    "sets": [
+        "easter_2023_set1",
+        "easter_2023_set2",
+        "easter_2023_set3",
+        "easter_2023_set4",
+        "easter_2023_set5",
+        "easter_2023_set6",
+        "easter_2023_set7",
+        "easter_2023_set8",
+        "easter_2023_set9",
+        "easter_2023_set10",
+        "easter_2023_set11",
+        "easter_2023_set12",
+        "easter_2023_set13"
+    ],
+    "quests": [255],
+    "year": 2023,
+    "tombola": 43,
+    "from": "2023-03-29 12:00:00",
+    "to": "2023-04-20 12:00:00",
+    "beta_from": "2023-03-22 12:00:00",
+    "beta_to": "2023-04-20 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/easter-event-2023.4435/#post-48210"
+}
