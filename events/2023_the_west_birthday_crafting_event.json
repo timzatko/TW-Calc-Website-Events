@@ -1,0 +1,29 @@
+{
+    "key": "the_west_birthday_crafting_event",
+    "name": "Crafting event for 15th Birthday",
+    "items": [
+        53337000,
+        53340000,
+        53343000,
+        53345000,
+        53347000,
+        53348000,
+        53344000,
+        53349000,
+        53346000,
+        53342000,
+        52868000,
+        52518000,
+        53338000,
+        53336000,
+        52505000,
+        52869000,
+        52500000,
+        52501000
+    ],
+    "quests": [272],
+    "from": "2023-05-10 12:00:00",
+    "to": "2023-05-26 12:00:00",
+    "year": 2023,
+    "forum_url": "https://forum.the-west.net/index.php?threads/crafting-event-for-15th-birthday.61378/"
+}
