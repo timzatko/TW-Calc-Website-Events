@@ -1,0 +1,13 @@
+{
+    "key": "fort_event",
+    "name": "Bent's Fort Event",
+    "sets": [],
+    "items": [53353000, 53357000, 53354000],
+    "year": 2023,
+    "quests": [275],
+    "from": "2023-06-07 12:00:00",
+    "to": "2023-06-21 12:00:00",
+    "beta_from": "2023-05-30 12:00:00",
+    "beta_to": "2023-06-21 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/bents-fort-event.4513/"
+}
