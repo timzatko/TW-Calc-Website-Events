@@ -1,0 +1,12 @@
+{
+    "name": "June Sale",
+    "key": "june_sale",
+    "items": [53433000, 53434000, 53432000],
+    "sets": ["sale_june_2023_clothes", "sale_june_2023_weapon", "sale_june_2023_animal"],
+    "from": "2023-06-22 12:00:00",
+    "to": "2023-06-24 12:00:00",
+    "beta_from": "2023-06-22 09:00:00",
+    "beta_to": "2023-06-24 09:00:00",
+    "year": 2023,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/new-set-sale-2023.4533/"
+}
