@@ -1,7 +1,26 @@
 {
     "key": "independence",
-    "items": [],
-    "sets": [],
-    "quests": [],
+    "items": [53392000, 53380000, 53416000, 53404000, 53432000, 53434000, 53433000],
+    "sets": [
+        "independence_day_2023_set_1",
+        "independence_day_2023_set_2",
+        "independence_day_2023_set_3",
+        "independence_day_2023_set_4",
+        "independence_day_2023_set_5",
+        "independence_day_2023_set_6",
+        "independence_day_2023_set_7",
+        "independence_day_2023_set_8",
+        "independence_day_2023_set_9",
+        "independence_day_2023_set_10",
+        "independence_day_2023_set_11",
+        "independence_day_2023_set_12",
+        "independence_day_2023_set_13"
+    ],
+    "quests": [278],
+    "tombola": 44,
+    "from": "2023-07-05 12:00:00",
+    "to": "2023-07-25 12:00:00",
+    "beta_from": "2023-06-27 12:00:00",
+    "beta_to": "2023-07-25 12:00:00",
     "year": 2023
 }
