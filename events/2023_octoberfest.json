@@ -1,0 +1,24 @@
+{
+    "key": "octoberfest",
+    "items": [53487000, 53497000, 53456000, 53477000, 53501000],
+    "sets": [
+        "oktoberfest_2023_set_1",
+        "oktoberfest_2023_set_2",
+        "oktoberfest_2023_set_3",
+        "oktoberfest_2023_set_4",
+        "oktoberfest_2023_set_5",
+        "oktoberfest_2023_set_6",
+        "oktoberfest_2023_set_7",
+        "oktoberfest_2023_set_8",
+        "oktoberfest_2023_set_9",
+        "oktoberfest_2023_set_10"
+    ],
+    "quests": [282, 283],
+    "year": 2023,
+    "tombola": 45,
+    "from": "2023-09-14 12:00:00",
+    "to": "2023-10-10 11:59:00",
+    "beta_from": "2023-09-05 12:00:00",
+    "beta_to": "2023-10-10 11:59:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-event-2023.4588/"
+}
