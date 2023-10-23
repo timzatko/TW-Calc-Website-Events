@@ -1,0 +1,21 @@
+{
+    "key": "dotd",
+    "items": [53548000, 53546000, 53545000, 53547000, 53520000, 53532000, 53544000],
+    "sets": [
+        "dod_2023_set_1",
+        "dod_2023_set_2",
+        "dod_2023_set_3",
+        "dod_2023_set_4",
+        "dod_2023_set_5",
+        "dod_2023_set_6",
+        "dod_2023_set_7",
+        "dod_2023_set_8",
+        "dod_2023_set_9"
+    ],
+    "quests": [287],
+    "year": 2023,
+    "tombola": 46,
+    "beta_from": "2023-10-18 12:00:00",
+    "beta_to": "2023-11-13 11:59:59",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/day-of-the-dead-2023.4621/#post-52048"
+}
