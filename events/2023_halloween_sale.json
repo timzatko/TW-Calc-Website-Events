@@ -1,0 +1,13 @@
+{
+    "key": "halloween_sale",
+    "name": "Halloween Sale",
+    "items": [52684000],
+    "sets": ["set_halloween_clown"],
+    "year": 2023,
+    "quests": [],
+    "from": "2023-10-27 12:00:00",
+    "to": "2023-11-02 12:00:00",
+    "beta_from": "2023-10-27 09:00:00",
+    "beta_to": "2023-11-02 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/halloween-sale-2023.4628/"
+}
