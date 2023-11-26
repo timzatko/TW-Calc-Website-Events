@@ -1,6 +1,5 @@
 {
     "$id": "https://github.com/timzatko/TW-Calc-Website-Events/tree/master/schema.json",
-    "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "Event",
     "type": "object",
     "properties": {

@@ -1,0 +1,12 @@
+{
+    "key": "traditional_pumpkin_hunting",
+    "name": "Traditional Pumpkin Hunting",
+    "items": [53558000],
+    "quests": [176, 212, 264, 249],
+    "from": "2023-11-22 12:00:00",
+    "to": "2023-12-06 12:00:00",
+    "beta_from": "2023-11-15 12:00:00",
+    "beta_to": "2023-12-06 12:00:00",
+    "year": 2023,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/pumpkin-hunt-2023.4644/"
+}
