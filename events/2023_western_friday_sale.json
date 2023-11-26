@@ -1,0 +1,42 @@
+{
+    "key": "western_friday_sale",
+    "name": "Western Friday Sale",
+    "sets": [
+        "western_friday_horse_set",
+        "western_friday_weapon_set",
+        "sale_june_2023_clothes",
+        "sale_june_2023_animal",
+        "sale_june_2023_weapon",
+        "firefighter_set_1",
+        "firefighter_set_2",
+        "chef_set_1",
+        "chef_set_2"
+    ],
+    "items": [
+        51141000,
+        51140000,
+        51139000,
+        51998000,
+        51997000,
+        50128000,
+        50368000,
+        51744000,
+        50992000,
+        53432000,
+        53433000,
+        53434000,
+        51795000,
+        51797000,
+        51796000,
+        51311000,
+        51312000,
+        40235000
+    ],
+    "year": 2023,
+    "quests": [],
+    "from": "2023-11-24 12:00:00",
+    "to": "2023-11-26 12:00:00",
+    "beta_from": "2023-11-24 09:00:00",
+    "beta_to": "2023-11-26 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/western-friday-sale-2023.4648/"
+}
