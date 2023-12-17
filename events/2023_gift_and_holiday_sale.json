@@ -1,0 +1,30 @@
+{
+    "key": "gift_and_holiday_sale",
+    "name": "Gift Hunt & Holiday Sale",
+    "items": [
+        53599000,
+        53597000,
+        53594000,
+        53595000,
+        53596000,
+        53608000,
+        53601000,
+        53606000,
+        53607000,
+        53602000,
+        53603000,
+        53605000,
+        53604000,
+        53587000,
+        53586000,
+        53585000,
+        53583000,
+        53582000
+    ],
+    "sets": ["holiday_2023_set_1", "holiday_2023_set_2", "holiday_2023_set_3"],
+    "quests": [289],
+    "year": 2023,
+    "beta_from": "2023-12-13 12:00:00",
+    "beta_to": "2024-01-11 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/gift-hunt-holiday-sale-2023.4667/"
+}
