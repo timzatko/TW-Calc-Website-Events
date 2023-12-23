@@ -24,6 +24,8 @@
     "sets": ["holiday_2023_set_1", "holiday_2023_set_2", "holiday_2023_set_3"],
     "quests": [289],
     "year": 2023,
+    "from": "2023-12-20 12:00:00",
+    "to": "2024-01-11 12:00:00",
     "beta_from": "2023-12-13 12:00:00",
     "beta_to": "2024-01-11 12:00:00",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/gift-hunt-holiday-sale-2023.4667/"
