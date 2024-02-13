@@ -1,7 +1,7 @@
 {
     "key": "valentine",
-    "items": [],
-    "sets": ["valentine_2023_set_1", "valentine_2023_set_2", "valentine_2023_set_3", "valentine_2023_set_4"],
+    "items": [53838000, 53830000],
+    "sets": ["valentine_2024_set_1", "valentine_2024_set_2", "valentine_2024_set_3", "valentine_2024_set_4"],
     "quests": [292],
     "year": 2024,
     "tombola": 47,
