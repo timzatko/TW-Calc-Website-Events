@@ -1,0 +1,25 @@
+{
+    "key": "easter",
+    "items": [],
+    "sets": [
+        "easter_2024_set1",
+        "easter_2024_set2",
+        "easter_2024_set3",
+        "easter_2024_set4",
+        "easter_2024_set5",
+        "easter_2024_set6",
+        "easter_2024_set7",
+        "easter_2024_set8",
+        "easter_2024_set9",
+        "easter_2024_set10",
+        "easter_2024_set11",
+        "easter_2024_set12",
+        "easter_2024_set13"
+    ],
+    "quests": [],
+    "year": 2024,
+    "tombola": 48,
+    "beta_from": "2024-03-12 12:00:00",
+    "beta_to": "2024-04-11 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/easter-event-2024.4725/#post-53727"
+}
