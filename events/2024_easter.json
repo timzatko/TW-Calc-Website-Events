@@ -1,6 +1,6 @@
 {
     "key": "easter",
-    "items": [],
+    "items": [53912000, 53887000, 53875000, 53905000],
     "sets": [
         "easter_2024_set1",
         "easter_2024_set2",
@@ -19,6 +19,8 @@
     "quests": [295],
     "year": 2024,
     "tombola": 48,
+    "from": "2024-03-20 12:00:00",
+    "to": "2024-04-11 12:00:00",
     "beta_from": "2024-03-12 12:00:00",
     "beta_to": "2024-04-11 12:00:00",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/easter-event-2024.4725/#post-53727"
