@@ -1,0 +1,27 @@
+{
+    "key": "the_west_birthday",
+    "name": "The West turns 16!",
+    "items": [
+        53937000,
+        53933000,
+        53930000,
+        53932000,
+        53946000,
+        53934000,
+        53935000,
+        53931000,
+        53936000,
+        53945000,
+        53943000,
+        53942000,
+        53944000,
+        53948000,
+        53947000
+    ],
+    "sets": ["16_b_day_set", "16_b_day_set_animal", "16_b_day_set_weapon"],
+    "quests": [299, 300],
+    "from": "2024-05-07 11:00:00",
+    "to": "2024-05-30 11:00:00",
+    "year": 2024,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/16th-birthday.4823/#post-54343"
+}
