@@ -20,8 +20,10 @@
     ],
     "sets": ["16_b_day_set", "16_b_day_set_animal", "16_b_day_set_weapon"],
     "quests": [299, 300],
-    "from": "2024-05-07 11:00:00",
+    "from": "2024-05-15 11:00:00",
     "to": "2024-05-30 11:00:00",
+    "beta_from": "2024-05-07 11:00:00",
+    "beta_to": "2024-05-30 11:00:00",
     "year": 2024,
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/16th-birthday.4823/#post-54343"
 }
