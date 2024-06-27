@@ -1,0 +1,13 @@
+{
+    "key": "soccer_event",
+    "name": "Soccer Event",
+    "items": [53959000, 53974000, 53956000, 53961000, 53954000, 53960000, 53963000, 53955000, 53957000, 53958000],
+    "sets": ["soccer_2024_clothes", "soccer_2024_animal", "soccer_2024_weapon"],
+    "quests": [302],
+    "from": "2024-06-19 09:00:00",
+    "to": "2024-07-03 09:00:00",
+    "beta_from": "2024-06-05 09:00:00",
+    "beta_to": "2024-06-26 09:00:00",
+    "year": 2024,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/soccer-event-2024.4835/"
+}

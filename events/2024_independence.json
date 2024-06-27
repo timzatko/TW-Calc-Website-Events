@@ -1,0 +1,25 @@
+{
+    "key": "independence",
+    "items": [54028000, 54016000, 54015000, 54033000, 54003000, 54002000, 54029000],
+    "sets": [
+        "independence_day_2024_set_1",
+        "independence_day_2024_set_2",
+        "independence_day_2024_set_3",
+        "independence_day_2024_set_4",
+        "independence_day_2024_set_5",
+        "independence_day_2024_set_6",
+        "independence_day_2024_set_7",
+        "independence_day_2024_set_8",
+        "independence_day_2024_set_9",
+        "independence_day_2024_set_10",
+        "independence_day_2024_set_11",
+        "independence_day_2024_set_12",
+        "independence_day_2024_set_13"
+    ],
+    "quests": [],
+    "tombola": 44,
+    "beta_from": "2024-06-25 12:00:00",
+    "beta_to": "2024-07-23 12:00:00",
+    "year": 2024,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/independence-day-2024.4851/"
+}
