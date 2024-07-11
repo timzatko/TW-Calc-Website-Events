@@ -16,8 +16,10 @@
         "independence_day_2024_set_12",
         "independence_day_2024_set_13"
     ],
-    "quests": [],
+    "quests": [303],
     "tombola": 49,
+    "from": "2024-07-03 12:00:00",
+    "to": "2024-07-23 12:00:00",
     "beta_from": "2024-06-25 12:00:00",
     "beta_to": "2024-07-23 12:00:00",
     "year": 2024,
