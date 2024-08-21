@@ -2,8 +2,22 @@
     "key": "harvest_event",
     "name": "Harvest Event",
     "sets": [],
-    "items": [],
+    "items": [
+        54047000,
+        54042000,
+        54048000,
+        54043000,
+        54049000,
+        54041000,
+        54039000,
+        54046000,
+        54045000,
+        54040000,
+        54044000
+    ],
     "year": 2024,
+    "from": "2024-08-14 12:00:00",
+    "to": "2024-08-28 12:00:00",
     "beta_from": "2024-08-06 12:00:00",
     "beta_to": "2024-08-28 12:00:00",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/harvest-event-2024.4879/"
