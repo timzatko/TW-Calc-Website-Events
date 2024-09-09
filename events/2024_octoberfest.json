@@ -1,0 +1,24 @@
+{
+    "key": "octoberfest",
+    "items": [54084000, 54112000, 54096000, 54108000, 54114000],
+    "sets": [
+        "oktoberfest_2024_set_1",
+        "oktoberfest_2024_set_2",
+        "oktoberfest_2024_set_3",
+        "oktoberfest_2024_set_4",
+        "oktoberfest_2024_set_5",
+        "oktoberfest_2024_set_6",
+        "oktoberfest_2024_set_7",
+        "oktoberfest_2024_set_8",
+        "oktoberfest_2024_set_9",
+        "oktoberfest_2024_set_10",
+        "oktoberfest_2024_set_11",
+        "oktoberfest_2024_set_12"
+    ],
+    "quests": [306],
+    "year": 2024,
+    "tombola": 50,
+    "beta_from": "2024-09-03 12:00:00",
+    "beta_to": "2024-10-08 11:59:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-event-2024.4945/#post-55932"
+}
