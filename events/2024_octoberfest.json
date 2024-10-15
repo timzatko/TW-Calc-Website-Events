@@ -18,6 +18,8 @@
     "quests": [306],
     "year": 2024,
     "tombola": 50,
+    "from": "2024-09-11 12:00:00",
+    "to": "2024-10-08 11:59:00",
     "beta_from": "2024-09-03 12:00:00",
     "beta_to": "2024-10-08 11:59:00",
     "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-event-2024.4945/#post-55932"
