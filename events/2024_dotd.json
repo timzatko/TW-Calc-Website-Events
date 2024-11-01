@@ -1,0 +1,23 @@
+{
+    "key": "dotd",
+    "items": [],
+    "sets": [
+        "dod_2024_set_1",
+        "dod_2024_set_2",
+        "dod_2024_set_3",
+        "dod_2024_set_4",
+        "dod_2024_set_5",
+        "dod_2024_set_6",
+        "dod_2024_set_7",
+        "dod_2024_set_8",
+        "dod_2024_set_9"
+    ],
+    "quests": [],
+    "year": 2024,
+    "tombola": 51,
+    "from": "2024-10-30 12:00:00",
+    "to": "2024-11-18 12:00:00",
+    "beta_from": "2024-10-11 12:00:00",
+    "beta_to": "2024-11-18 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/day-of-the-dead-2024.4975/"
+}
