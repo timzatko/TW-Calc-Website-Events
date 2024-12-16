@@ -1,8 +1,8 @@
 {
     "key": "western_friday_sale",
     "name": "Western Friday Sale",
-    "sets": [],
-    "items": [],
+    "sets": ["western_friday_2024_clothes_set", "western_friday_2024_weapon_set", "western_friday_2024_animal_set"],
+    "items": [54223000, 54225000, 54224000],
     "year": 2024,
     "quests": [],
     "from": "2024-11-29 12:00:00",
