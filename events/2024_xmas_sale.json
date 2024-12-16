@@ -15,6 +15,7 @@
         54232000,
         54233000
     ],
+    "sets": ["holiday_2024_set_1", "holiday_2024_set_2", "holiday_2024_set_3"],
     "year": 2024,
     "quests": [310],
     "beta_from": "2024-12-10 12:00:00",
