@@ -1,0 +1,23 @@
+{
+    "key": "xmas_sale",
+    "name": "Gift Hunt & Holiday Sale 2024",
+    "items": [
+        54239000,
+        54238000,
+        54240000,
+        54236000,
+        54224000,
+        54225000,
+        54237000,
+        54241000,
+        54235000,
+        54234000,
+        54232000,
+        54233000
+    ],
+    "year": 2024,
+    "quests": [310],
+    "beta_from": "2024-12-10 12:00:00",
+    "beta_to": "2025-01-09 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/winter-event-2023-shop-offer.4403/"
+}
