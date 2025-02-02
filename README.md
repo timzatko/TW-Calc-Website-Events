@@ -60,12 +60,12 @@ This property **must be same as the `eventKey` in the filename**.
 
 For the following recurring events always use these keys. Then the event will have a special background and text in its banner, also you don't need to provide its name property as it will be added automatically (the name will also be translated).
 
--   Valentine's day - `valentine`
--   The Independence day - `independence`
--   Octoberfest - `octoberfest`
--   Easter - `easter`
--   Christmas Sale - `xmas_sale`
--   Day of the Dead - `dotd`
+- Valentine's day - `valentine`
+- The Independence day - `independence`
+- Octoberfest - `octoberfest`
+- Easter - `easter`
+- Christmas Sale - `xmas_sale`
+- Day of the Dead - `dotd`
 
 #### `year`
 
