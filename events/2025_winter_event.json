@@ -1,0 +1,13 @@
+{
+    "key": "winter_event",
+    "name": "Winter Event",
+    "sets": [],
+    "items": [],
+    "year": 2025,
+    "quests": [311],
+    "from": "2025-01-29 12:00:00",
+    "to": "2025-02-12 12:00:00",
+    "beta_from": "2025-01-21 12:00:00",
+    "beta_to": "2025-02-12 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/winter-event-2025.5079/#post-57536"
+}
