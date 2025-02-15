@@ -1,0 +1,12 @@
+{
+    "key": "valentine",
+    "items": [],
+    "sets": ["valentine_2025_set_1", "valentine_2025_set_2", "valentine_2025_set_3", "valentine_2025_set_4"],
+    "quests": [313],
+    "from": "2025-02-12 12:00:00",
+    "to": "2025-03-03 11:59:00",
+    "beta_from": "2025-02-02 12:00:00",
+    "beta_to": "2025-03-03 11:59:00",
+    "year": 2025,
+    "tombola": 52
+}
