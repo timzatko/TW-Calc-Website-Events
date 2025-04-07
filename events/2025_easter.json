@@ -1,0 +1,27 @@
+{
+    "key": "easter",
+    "items": [54346000, 54316000, 54317000, 54342000, 54343000, 54329000, 54330000],
+    "sets": [
+        "easter_2025_set_1",
+        "easter_2025_set_2",
+        "easter_2025_set_3",
+        "easter_2025_set_4",
+        "easter_2025_set_5",
+        "easter_2025_set_6",
+        "easter_2025_set_7",
+        "easter_2025_set_8",
+        "easter_2025_set_9",
+        "easter_2025_set_10",
+        "easter_2025_set_11",
+        "easter_2025_set_12",
+        "easter_2025_set_13"
+    ],
+    "quests": [314, 315],
+    "year": 2025,
+    "tombola": 53,
+    "from": "2025-03-25 12:00:00",
+    "to": "2025-04-24 12:00:00",
+    "beta_from": "2025-03-25 12:00:00",
+    "beta_to": "2025-04-24 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/easter-event-2025.5111/"
+}
