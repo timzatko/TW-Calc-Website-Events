@@ -1,0 +1,12 @@
+{
+    "key": "sports_event",
+    "name": "Sports Event",
+    "items": [54410000, 54403000, 54404000, 54405000, 54406000, 54407000, 54409000],
+    "year": 2025,
+    "quests": [324],
+    "from": "2025-06-12 12:00:00",
+    "to": "2025-06-26 12:00:00",
+    "beta_from": "2025-06-03 12:00:00",
+    "beta_to": "2025-06-26 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/sports-event-2025.5198/"
+}
