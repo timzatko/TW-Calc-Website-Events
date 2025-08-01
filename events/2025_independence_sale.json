@@ -1,6 +1,7 @@
 {
-    "key": "independence",
-    "items": [54462000, 54450000, 54438000, 54466000],
+    "key": "independence_sale",
+    "name": "Independence Day Sale",
+    "items": [],
     "sets": [
         "independence_day_2025_set_1",
         "independence_day_2025_set_2",
@@ -16,12 +17,10 @@
         "independence_day_2025_set_12",
         "independence_day_2025_set_13"
     ],
-    "quests": [325],
-    "tombola": 54,
-    "from": "2025-07-03 12:00:00",
-    "to": "2025-07-23 12:00:00",
-    "beta_from": "2025-06-24 12:00:00",
-    "beta_to": "2025-07-22 12:00:00",
+    "from": "2025-08-01 12:00:00",
+    "to": "2025-08-03 12:00:00",
+    "beta_from": "2025-08-01 09:00:00",
+    "beta_to": "2025-08-03 09:00:00",
     "year": 2025,
-    "forum_url": "https://forum.beta.the-west.net/index.php?threads/independence-day-2025.5215/#post-59337"
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/complete-your-independence-day-sets-2025.5235/#post-59815"
 }
