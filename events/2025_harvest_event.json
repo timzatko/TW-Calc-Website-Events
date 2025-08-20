@@ -1,0 +1,12 @@
+{
+    "key": "harvest_event",
+    "name": "Harvest Event",
+    "items": [54539000, 54537000, 54538000, 54536000],
+    "year": 2025,
+    "quests": [326],
+    "from": "2025-08-13 12:00:00",
+    "to": "2025-08-27 12:00:00",
+    "beta_from": "2025-08-05 12:00:00",
+    "beta_to": "2025-08-27 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/harvest-event-2025.5240/"
+}
