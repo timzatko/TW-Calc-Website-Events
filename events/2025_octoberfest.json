@@ -1,0 +1,27 @@
+{
+    "key": "octoberfest",
+    "items": [54596000, 54568000, 54580000, 54592000],
+    "sets": [
+        "oktoberfest_2025_set_1",
+        "oktoberfest_2025_set_2",
+        "oktoberfest_2025_set_3",
+        "oktoberfest_2025_set_4",
+        "oktoberfest_2025_set_5",
+        "oktoberfest_2025_set_6",
+        "oktoberfest_2025_set_7",
+        "oktoberfest_2025_set_8",
+        "oktoberfest_2025_set_9",
+        "oktoberfest_2025_set_10",
+        "oktoberfest_2025_set_11",
+        "oktoberfest_2025_set_12",
+        "oktoberfest_2025_set_13"
+    ],
+    "quests": [327],
+    "year": 2025,
+    "tombola": 55,
+    "from": "2025-09-10 12:00:00",
+    "to": "2025-10-07 11:59:00",
+    "beta_from": "2025-09-03 12:00:00",
+    "beta_to": "2025-10-08 11:59:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/oktoberfest-event-2025.5320/"
+}
