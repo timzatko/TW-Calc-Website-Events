@@ -1,0 +1,20 @@
+{
+    "key": "western_friday_sale",
+    "name": "Western Friday Sale",
+    "sets": [
+        "black_friday_set",
+        "western_friday_weapon_set",
+        "western_friday_horse_set",
+        "western_friday_2024_weapon_set",
+        "western_friday_2024_animal_set",
+        "western_friday_2024_clothes_set"
+    ],
+    "items": [51795000, 51796000, 51797000, 54223000, 54224000, 54225000],
+    "year": 2025,
+    "quests": [],
+    "from": "2025-11-28 12:00:00",
+    "to": "2025-11-30 12:00:00",
+    "beta_from": "2025-11-28 09:00:00",
+    "beta_to": "2025-11-30 09:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/western-friday-sale-2025.5431/"
+}
