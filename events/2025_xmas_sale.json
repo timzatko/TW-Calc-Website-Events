@@ -1,0 +1,13 @@
+{
+    "key": "xmas_sale",
+    "name": "Gift Hunt & Holiday Sale",
+    "year": 2025,
+    "quests": [330],
+    "items": [54661000, 54662000, 54663000, 54664000, 54665000, 54699000],
+    "sets": ["holiday_2025_set_1", "holiday_2025_set_2", "holiday_2025_set_3"],
+    "from": "2025-12-17 12:00:00",
+    "to": "2026-01-08 12:00:00",
+    "beta_from": "2025-12-02 12:00:00",
+    "beta_to": "2026-01-08 12:00:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/gift-hunt-holiday-sale-2025.5435/"
+}
