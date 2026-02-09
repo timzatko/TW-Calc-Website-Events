@@ -1,6 +1,6 @@
 {
     "key": "valentine",
-    "items": [],
+    "items": [54730000],
     "sets": ["valentine_2026_set_1", "valentine_2026_set_2", "valentine_2026_set_3", "valentine_2026_set_4"],
     "quests": [332],
     "from": "2026-02-01 12:00:00",
@@ -8,5 +8,6 @@
     "beta_from": "2026-02-03 12:00:00",
     "beta_to": "2026-03-02 11:59:00",
     "year": 2026,
-    "tombola": 57
+    "tombola": 57,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/valentines-day-event-2026.5467/"
 }
