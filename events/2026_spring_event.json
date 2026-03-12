@@ -1,0 +1,12 @@
+{
+    "key": "spring_event",
+    "name": "Spring Event 2026",
+    "year": 2026,
+    "from": "2026-03-11 12:00:00",
+    "to": "2026-03-25 12:00:00",
+    "beta_from": "2026-03-03 12:00:00",
+    "beta_to": "2026-03-25 12:00:00",
+    "items": [54752000, 54749000, 54754000, 54753000],
+    "quests": [333],
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/spring-event-2026.5550/"
+}
