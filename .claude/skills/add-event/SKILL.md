@@ -48,20 +48,27 @@ Example: `events/2026_easter.json`
 
 ## Steps
 
-1. Gather the event details from the user (or from $ARGUMENTS if provided). Ask for any missing required fields:
+Ask questions **one at a time** and wait for the user's answer before moving to the next. Do not ask multiple questions in a single message.
 
-    - Event name and key
-    - Year
-    - Live server from/to dates
-    - Beta server from/to dates
-    - Item IDs (if any)
-    - Set names (if any)
-    - Quest IDs (if any)
-    - Tombola ID (if any)
-    - Forum URL
+Use $ARGUMENTS as a starting point if provided (e.g. pre-fill event name/key from it), but still ask about any fields not covered.
 
-2. Omit optional fields (`sets`, `items`, `quests`, `tombola`) if they are empty/null rather than including empty arrays or null values — but include them when values are provided.
+Ask in this order:
 
-3. Write the JSON file to `events/{year}_{key}.json` with 4-space indentation, matching the format of existing event files.
+1. **Event name** — e.g. "Easter Event 2026" (if not clear from $ARGUMENTS)
+2. **Key** — suggest a snake_case key derived from the name and confirm with the user
+3. **Year** — suggest the current year and confirm
+4. **Live start date** (`from`) — accept any date/time format the user provides (e.g. "March 15 10:00", "15.03.2026 10:00", "2026-03-15") and reformat it to `YYYY-MM-DD HH:MM:SS`. If time is omitted, default to `00:00:00`.
+5. **Live end date** (`to`) — same flexible input, reformat as above
+6. **Beta start date** (`beta_from`) — same flexible input; user can say "none" to skip
+7. **Beta end date** (`beta_to`) — only ask if beta_from was provided; same flexible input
+8. **Item IDs** — ask for a comma-separated list, or "none"
+9. **Set names** — ask for a comma-separated list, or "none"
+10. **Quest IDs** — ask for a comma-separated list, or "none"
+11. **Tombola ID** — ask for an integer, or "none"
+12. **Forum URL** — ask for the full URL, or "none"
 
-4. Ask the user if they want to commit the new file. If yes, stage and commit it with message: `Add events/{filename}`
+After all answers are collected:
+
+- Omit optional fields (`sets`, `items`, `quests`, `tombola`, `forum_url`) if they are empty/null rather than including empty arrays or null values — but include them when values are provided.
+- Write the JSON file to `events/{year}_{key}.json` with 4-space indentation, matching the format of existing event files.
+- Ask the user if they want to commit the new file. If yes, stage and commit it with message: `Add events/{filename}`
