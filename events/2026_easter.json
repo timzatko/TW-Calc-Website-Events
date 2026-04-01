@@ -1,0 +1,26 @@
+{
+    "key": "easter",
+    "name": "Easter Event 2026",
+    "year": 2026,
+    "from": "2026-04-01 12:00:00",
+    "to": "2026-04-22 12:00:00",
+    "beta_from": "2026-03-24 12:00:00",
+    "beta_to": "2026-04-24 12:00:00",
+    "sets": [
+        "easter_2026_set_1",
+        "easter_2026_set_2",
+        "easter_2026_set_3",
+        "easter_2026_set_4",
+        "easter_2026_set_5",
+        "easter_2026_set_6",
+        "easter_2026_set_7",
+        "easter_2026_set_8",
+        "easter_2026_set_9",
+        "easter_2026_set_10",
+        "easter_2026_set_11",
+        "easter_2026_set_12",
+        "easter_2026_set_13"
+    ],
+    "tombola": 58,
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/easter-event-2026.5560/"
+}
