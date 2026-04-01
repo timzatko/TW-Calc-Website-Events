@@ -57,10 +57,10 @@ Ask in this order:
 1. **Event name** — e.g. "Easter Event 2026" (if not clear from $ARGUMENTS)
 2. **Key** — suggest a snake_case key derived from the name and confirm with the user
 3. **Year** — suggest the current year and confirm
-4. **Live start date** (`from`) — accept any date/time format the user provides (e.g. "March 15 10:00", "15.03.2026 10:00", "2026-03-15") and reformat it to `YYYY-MM-DD HH:MM:SS`. If time is omitted, default to `00:00:00`.
-5. **Live end date** (`to`) — same flexible input, reformat as above
-6. **Beta start date** (`beta_from`) — same flexible input; user can say "none" to skip
-7. **Beta end date** (`beta_to`) — only ask if beta_from was provided; same flexible input
+4. **Beta start date** (`beta_from`) — accept any date/time format the user provides (e.g. "March 15 10:00", "15.03.2026 10:00", "2026-03-15") and reformat it to `YYYY-MM-DD HH:MM:SS`. If time is omitted, default to `00:00:00`. User can say "none" to skip.
+5. **Beta end date** (`beta_to`) — only ask if beta_from was provided; same flexible input
+6. **Live start date** (`from`) — same flexible input, reformat as above
+7. **Live end date** (`to`) — same flexible input, reformat as above
 8. **Item IDs** — ask for a comma-separated list, or "none"
 9. **Set names** — ask for a comma-separated list, or "none"
 10. **Quest IDs** — ask for a comma-separated list, or "none"
