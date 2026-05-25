@@ -1,0 +1,16 @@
+{
+    "key": "the_west_birthday",
+    "name": "The West turns 18!",
+    "year": 2026,
+    "from": "2026-05-13 12:00:00",
+    "to": "2026-05-27 12:00:00",
+    "beta_from": "2026-05-07 00:00:00",
+    "beta_to": "2026-05-27 12:00:00",
+    "items": [
+        54812000, 54813000, 54814000, 54815000, 54816000, 54817000, 54818000, 54819000, 54820000, 54821000, 54822000,
+        54823000, 54824000, 54825000, 54826000, 54827000
+    ],
+    "sets": ["birthday_2026_clothes", "birthday_2026_animal", "birthday_2026_weapon"],
+    "quests": [339],
+    "forum_url": "https://forum.the-west.sk/index.php?threads/the-west-oslavuje-18-narodeniny.25887/"
+}
