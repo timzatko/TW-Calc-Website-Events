@@ -1,0 +1,12 @@
+{
+    "key": "easter_sale",
+    "name": "Easter Sale",
+    "year": 2026,
+    "from": "2026-05-08 12:00:00",
+    "to": "2026-05-10 12:00:00",
+    "beta_from": "2026-05-08 09:00:00",
+    "beta_to": "2026-05-10 09:00:00",
+    "items": [54776000, 54777000, 54782000, 54789000, 54790000, 54795000, 54802000, 54803000, 54808000],
+    "sets": ["easter_2026_set_5", "easter_2026_set_8", "easter_2026_set_11"],
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/complete-your-easter-sets-2026.5587/"
+}
