@@ -1,0 +1,11 @@
+{
+    "key": "soccer_event",
+    "name": "Soccer Event 2026",
+    "year": 2026,
+    "from": "2026-06-10 00:00:00",
+    "to": "2026-06-24 00:00:00",
+    "beta_from": "2026-06-02 00:00:00",
+    "beta_to": "2026-06-24 00:00:00",
+    "items": [55074000, 55075000, 55076000, 55077000, 55078000, 55079000],
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/soccer-event-2026.5602/"
+}
