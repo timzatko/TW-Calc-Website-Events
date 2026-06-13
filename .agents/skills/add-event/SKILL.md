@@ -30,7 +30,7 @@ Your job is to collect the necessary information and create a new event JSON fil
 Fields:
 
 - `key`: snake_case identifier matching the filename suffix (e.g. `easter` → `2026_easter.json`)
-- `name`: Display name (e.g. "Easter Event 2026")
+- `name`: Display name **without the year** (e.g. `"Easter Event"`, **not** `"Easter Event 2026"`). The year belongs only in the `year` field and the filename. Recurring events reuse the same name every year (e.g. `"Winter Event"`, `"Soccer Event"`, `"Spring Event"`).
 - `year`: The year as an integer
 - `from` / `to`: Live server start/end dates, format `YYYY-MM-DD HH:MM:SS`
 - `beta_from` / `beta_to`: Beta server start/end dates
@@ -107,7 +107,7 @@ Use $ARGUMENTS as a starting point if provided (e.g. pre-fill event name/key fro
 
 Ask in this order:
 
-1. **Event name** — e.g. "Easter Event 2026" (if not clear from $ARGUMENTS)
+1. **Event name** — the display name **without the year**, e.g. "Easter Event" (**not** "Easter Event 2026"); the year goes in the `year` field, not the name (if not clear from $ARGUMENTS)
 2. **Key** — suggest a snake_case key derived from the name and confirm with the user
 3. **Year** — suggest the current year and confirm
 4. **Beta start date** (`beta_from`) — accept any date/time format the user provides (e.g. "March 15 10:00", "15.03.2026 10:00", "2026-03-15") and reformat to `YYYY-MM-DD HH:MM:SS`. If time is omitted, default to `00:00:00`. User can say "none" to skip.
