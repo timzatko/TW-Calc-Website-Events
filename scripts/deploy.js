@@ -29,6 +29,15 @@ if (!apiKey) {
                 'ERROR!',
                 `The following error occurred during the deployment: "${error.name}: ${error.message}"`,
             );
+
+            if (resp.response) {
+                const { status, data } = resp.response;
+                const body = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
+
+                console.log('Response status:', status);
+                console.log('Response body:', body);
+            }
+
             process.exit(3);
         });
 })();
