@@ -1,0 +1,12 @@
+{
+    "key": "independence_sale",
+    "name": "Independence Day Sale",
+    "year": 2026,
+    "from": "2026-07-31 12:00:00",
+    "to": "2026-08-02 12:00:00",
+    "beta_from": "2026-07-31 09:00:00",
+    "beta_to": "2026-08-02 09:00:00",
+    "items": [54857000, 54870000, 54883000],
+    "sets": ["independence_day_2026_set_6", "independence_day_2026_set_9", "independence_day_2026_set_12"],
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/complete-your-independence-day-sets-2026.5688/"
+}
