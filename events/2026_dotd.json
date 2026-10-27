@@ -1,0 +1,22 @@
+{
+    "key": "dotd",
+    "items": [54976000],
+    "sets": [
+        "dod_2026_set_1",
+        "dod_2026_set_2",
+        "dod_2026_set_3",
+        "dod_2026_set_4",
+        "dod_2026_set_5",
+        "dod_2026_set_6",
+        "dod_2026_set_7",
+        "dod_2026_set_8",
+        "dod_2026_set_9"
+    ],
+    "year": 2026,
+    "tombola": 62,
+    "from": "2026-10-28 12:00:00",
+    "to": "2026-11-16 11:59:00",
+    "beta_from": "2026-10-20 12:00:00",
+    "beta_to": "2026-11-16 11:59:00",
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/day-of-the-dead-2026.5762/"
+}

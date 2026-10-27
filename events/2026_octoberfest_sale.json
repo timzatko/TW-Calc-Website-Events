@@ -1,0 +1,24 @@
+{
+    "key": "octoberfest_sale",
+    "name": "Complete your Oktoberfest sets and Lucille Mulhall Sale",
+    "year": 2026,
+    "from": "2026-10-16 12:00:00",
+    "to": "2026-10-18 12:00:00",
+    "beta_from": "2026-10-16 09:00:00",
+    "beta_to": "2026-10-18 09:00:00",
+    "items": [51250000, 51249000],
+    "sets": [
+        "lucille_animal_set",
+        "lucille_weapon_set",
+        "oktoberfest_2025_set_5",
+        "oktoberfest_2025_set_8",
+        "oktoberfest_2025_set_11",
+        "oktoberfest_2024_set_5",
+        "oktoberfest_2024_set_8",
+        "oktoberfest_2024_set_11",
+        "oktoberfest_sale_2023_set_1",
+        "oktoberfest_sale_2023_set_2",
+        "oktoberfest_sale_2023_set_3"
+    ],
+    "forum_url": "https://forum.beta.the-west.net/index.php?threads/complete-your-oktoberfest-sets-lucille-mulhall-sale-2026.5758/"
+}
